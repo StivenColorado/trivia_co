@@ -1,0 +1,666 @@
+{
+"idioma": "en",
+"categoria": "cultura",
+"preguntas": [
+{
+"id": "en-cultura-001",
+"p": "Who wrote Romeo and Juliet?",
+"o": [
+"William Shakespeare",
+"Charles Dickens",
+"Mark Twain",
+"Jane Austen"
+],
+"r": 0,
+"d": 1
+},
+{
+"id": "en-cultura-002",
+"p": "How many days are there in a leap year?",
+"o": [
+"365",
+"366",
+"364",
+"367"
+],
+"r": 1,
+"d": 1
+},
+{
+"id": "en-cultura-003",
+"p": "Which color do you get by mixing blue and yellow?",
+"o": [
+"Purple",
+"Orange",
+"Green",
+"Brown"
+],
+"r": 2,
+"d": 1
+},
+{
+"id": "en-cultura-004",
+"p": "How many sides does a hexagon have?",
+"o": [
+"Five",
+"Seven",
+"Eight",
+"Six"
+],
+"r": 3,
+"d": 1
+},
+{
+"id": "en-cultura-005",
+"p": "Which animal is called the King of the Jungle?",
+"o": [
+"Lion",
+"Tiger",
+"Elephant",
+"Gorilla"
+],
+"r": 0,
+"d": 1
+},
+{
+"id": "en-cultura-006",
+"p": "How many players does a soccer team have on the field?",
+"o": [
+"Nine",
+"Eleven",
+"Ten",
+"Twelve"
+],
+"r": 1,
+"d": 1
+},
+{
+"id": "en-cultura-007",
+"p": "What is the largest planet in our solar system?",
+"o": [
+"Saturn",
+"Neptune",
+"Jupiter",
+"Earth"
+],
+"r": 2,
+"d": 1
+},
+{
+"id": "en-cultura-008",
+"p": "Which gas do humans need to breathe to survive?",
+"o": [
+"Nitrogen",
+"Helium",
+"Hydrogen",
+"Oxygen"
+],
+"r": 3,
+"d": 1
+},
+{
+"id": "en-cultura-009",
+"p": "How many strings does a standard guitar have?",
+"o": [
+"Six",
+"Four",
+"Five",
+"Seven"
+],
+"r": 0,
+"d": 1
+},
+{
+"id": "en-cultura-010",
+"p": "What is the hardest natural substance on Earth?",
+"o": [
+"Quartz",
+"Diamond",
+"Granite",
+"Topaz"
+],
+"r": 1,
+"d": 1
+},
+{
+"id": "en-cultura-011",
+"p": "In the common model taught in English, how many continents are there?",
+"o": [
+"Five",
+"Six",
+"Seven",
+"Eight"
+],
+"r": 2,
+"d": 1
+},
+{
+"id": "en-cultura-012",
+"p": "Which fairy tale character lost a glass slipper at a ball?",
+"o": [
+"Snow White",
+"Rapunzel",
+"Belle",
+"Cinderella"
+],
+"r": 3,
+"d": 1
+},
+{
+"id": "en-cultura-013",
+"p": "Which fruit is traditionally used to make wine?",
+"o": [
+"Grapes",
+"Pears",
+"Olives",
+"Figs"
+],
+"r": 0,
+"d": 1
+},
+{
+"id": "en-cultura-014",
+"p": "In which sport do players score with a slam dunk?",
+"o": [
+"Volleyball",
+"Basketball",
+"Handball",
+"Netball"
+],
+"r": 1,
+"d": 1
+},
+{
+"id": "en-cultura-015",
+"p": "How many hours are there in a day?",
+"o": [
+"18",
+"30",
+"24",
+"48"
+],
+"r": 2,
+"d": 1
+},
+{
+"id": "en-cultura-016",
+"p": "Which month comes first in the calendar year?",
+"o": [
+"March",
+"December",
+"February",
+"January"
+],
+"r": 3,
+"d": 1
+},
+{
+"id": "en-cultura-017",
+"p": "Which bird lays the largest egg?",
+"o": [
+"Ostrich",
+"Eagle",
+"Albatross",
+"Swan"
+],
+"r": 0,
+"d": 1
+},
+{
+"id": "en-cultura-018",
+"p": "Who painted the Mona Lisa?",
+"o": [
+"Michelangelo",
+"Leonardo da Vinci",
+"Raphael",
+"Donatello"
+],
+"r": 1,
+"d": 1
+},
+{
+"id": "en-cultura-019",
+"p": "Which holiday is celebrated on December 25?",
+"o": [
+"Easter",
+"Halloween",
+"Christmas",
+"Thanksgiving"
+],
+"r": 2,
+"d": 1
+},
+{
+"id": "en-cultura-020",
+"p": "Which fruit is the main ingredient of guacamole?",
+"o": [
+"Tomato",
+"Cucumber",
+"Lime",
+"Avocado"
+],
+"r": 3,
+"d": 1
+},
+{
+"id": "en-cultura-021",
+"p": "What does a thermometer measure?",
+"o": [
+"Temperature",
+"Pressure",
+"Humidity",
+"Wind speed"
+],
+"r": 0,
+"d": 1
+},
+{
+"id": "en-cultura-022",
+"p": "How many colors are in a rainbow?",
+"o": [
+"Five",
+"Seven",
+"Six",
+"Eight"
+],
+"r": 1,
+"d": 1
+},
+{
+"id": "en-cultura-023",
+"p": "Which language has the most native speakers worldwide?",
+"o": [
+"English",
+"Spanish",
+"Mandarin Chinese",
+"Hindi"
+],
+"r": 2,
+"d": 2
+},
+{
+"id": "en-cultura-024",
+"p": "How many bones does an adult human body have?",
+"o": [
+"212",
+"198",
+"256",
+"206"
+],
+"r": 3,
+"d": 2
+},
+{
+"id": "en-cultura-025",
+"p": "Who painted The Starry Night?",
+"o": [
+"Vincent van Gogh",
+"Claude Monet",
+"Paul Cézanne",
+"Edvard Munch"
+],
+"r": 0,
+"d": 2
+},
+{
+"id": "en-cultura-026",
+"p": "Which composer wrote the Ninth Symphony with Ode to Joy?",
+"o": [
+"Mozart",
+"Beethoven",
+"Brahms",
+"Haydn"
+],
+"r": 1,
+"d": 2
+},
+{
+"id": "en-cultura-027",
+"p": "Which composer wrote The Four Seasons?",
+"o": [
+"Johann Sebastian Bach",
+"Joseph Haydn",
+"Antonio Vivaldi",
+"George Handel"
+],
+"r": 2,
+"d": 2
+},
+{
+"id": "en-cultura-028",
+"p": "In which sport would you compete in a slalom?",
+"o": [
+"Fencing",
+"Archery",
+"Boxing",
+"Skiing"
+],
+"r": 3,
+"d": 2
+},
+{
+"id": "en-cultura-029",
+"p": "Which author created Sherlock Holmes?",
+"o": [
+"Arthur Conan Doyle",
+"Agatha Christie",
+"H.G. Wells",
+"Edgar Allan Poe"
+],
+"r": 0,
+"d": 2
+},
+{
+"id": "en-cultura-030",
+"p": "How many keys does a standard piano have?",
+"o": [
+"76",
+"88",
+"92",
+"100"
+],
+"r": 1,
+"d": 2
+},
+{
+"id": "en-cultura-031",
+"p": "Who wrote the novel 1984?",
+"o": [
+"Aldous Huxley",
+"Ray Bradbury",
+"George Orwell",
+"H.G. Wells"
+],
+"r": 2,
+"d": 2
+},
+{
+"id": "en-cultura-032",
+"p": "What is the smallest prime number?",
+"o": [
+"1",
+"3",
+"5",
+"2"
+],
+"r": 3,
+"d": 2
+},
+{
+"id": "en-cultura-033",
+"p": "Which gemstone is red and is the birthstone for July?",
+"o": [
+"Ruby",
+"Emerald",
+"Sapphire",
+"Opal"
+],
+"r": 0,
+"d": 2
+},
+{
+"id": "en-cultura-034",
+"p": "What is a baby kangaroo called?",
+"o": [
+"Cub",
+"Joey",
+"Pup",
+"Kit"
+],
+"r": 1,
+"d": 2
+},
+{
+"id": "en-cultura-035",
+"p": "Which instrument has strings and seven foot pedals?",
+"o": [
+"Violin",
+"Banjo",
+"Harp",
+"Cello"
+],
+"r": 2,
+"d": 2
+},
+{
+"id": "en-cultura-036",
+"p": "Which vitamin does the body make from sunlight?",
+"o": [
+"Vitamin C",
+"Vitamin A",
+"Vitamin B12",
+"Vitamin D"
+],
+"r": 3,
+"d": 2
+},
+{
+"id": "en-cultura-037",
+"p": "Which Spanish artist painted Guernica?",
+"o": [
+"Pablo Picasso",
+"Salvador Dalí",
+"Joan Miró",
+"Francisco Goya"
+],
+"r": 0,
+"d": 2
+},
+{
+"id": "en-cultura-038",
+"p": "Which board game has pieces called rook and bishop?",
+"o": [
+"Checkers",
+"Chess",
+"Backgammon",
+"Go"
+],
+"r": 1,
+"d": 2
+},
+{
+"id": "en-cultura-039",
+"p": "What is the fear of spiders called?",
+"o": [
+"Claustrophobia",
+"Acrophobia",
+"Arachnophobia",
+"Agoraphobia"
+],
+"r": 2,
+"d": 2
+},
+{
+"id": "en-cultura-040",
+"p": "In what year did the Titanic sink?",
+"o": [
+"1905",
+"1918",
+"1921",
+"1912"
+],
+"r": 3,
+"d": 2
+},
+{
+"id": "en-cultura-041",
+"p": "Which metal is liquid at room temperature?",
+"o": [
+"Mercury",
+"Lead",
+"Tin",
+"Zinc"
+],
+"r": 0,
+"d": 2
+},
+{
+"id": "en-cultura-042",
+"p": "Which Paris museum displays the Mona Lisa?",
+"o": [
+"Musée d'Orsay",
+"The Louvre",
+"The Prado",
+"The Uffizi"
+],
+"r": 1,
+"d": 2
+},
+{
+"id": "en-cultura-043",
+"p": "What is the largest mammal on Earth?",
+"o": [
+"African elephant",
+"Sperm whale",
+"Blue whale",
+"Giraffe"
+],
+"r": 2,
+"d": 2
+},
+{
+"id": "en-cultura-044",
+"p": "Which composer wrote nine symphonies despite going deaf?",
+"o": [
+"Johannes Brahms",
+"Frédéric Chopin",
+"Richard Wagner",
+"Ludwig van Beethoven"
+],
+"r": 3,
+"d": 2
+},
+{
+"id": "en-cultura-045",
+"p": "What is the chemical symbol for tungsten?",
+"o": [
+"W",
+"Tu",
+"Tn",
+"Wo"
+],
+"r": 0,
+"d": 3
+},
+{
+"id": "en-cultura-046",
+"p": "Who wrote One Hundred Years of Solitude?",
+"o": [
+"Jorge Luis Borges",
+"Gabriel García Márquez",
+"Mario Vargas Llosa",
+"Pablo Neruda"
+],
+"r": 1,
+"d": 3
+},
+{
+"id": "en-cultura-047",
+"p": "Which Italian poet wrote The Divine Comedy?",
+"o": [
+"Francesco Petrarch",
+"Giovanni Boccaccio",
+"Dante Alighieri",
+"Ludovico Ariosto"
+],
+"r": 2,
+"d": 3
+},
+{
+"id": "en-cultura-048",
+"p": "What is the longest bone in the human body?",
+"o": [
+"Tibia",
+"Humerus",
+"Fibula",
+"Femur"
+],
+"r": 3,
+"d": 3
+},
+{
+"id": "en-cultura-049",
+"p": "Who composed the opera The Magic Flute?",
+"o": [
+"Wolfgang Amadeus Mozart",
+"Joseph Haydn",
+"Gioachino Rossini",
+"Giuseppe Verdi"
+],
+"r": 0,
+"d": 3
+},
+{
+"id": "en-cultura-050",
+"p": "Which Russian author wrote War and Peace?",
+"o": [
+"Fyodor Dostoevsky",
+"Leo Tolstoy",
+"Anton Chekhov",
+"Ivan Turgenev"
+],
+"r": 1,
+"d": 3
+},
+{
+"id": "en-cultura-051",
+"p": "What is the SI unit of electrical resistance?",
+"o": [
+"Ampere",
+"Farad",
+"Ohm",
+"Joule"
+],
+"r": 2,
+"d": 3
+},
+{
+"id": "en-cultura-052",
+"p": "Which art movement is Claude Monet associated with?",
+"o": [
+"Cubism",
+"Surrealism",
+"Baroque",
+"Impressionism"
+],
+"r": 3,
+"d": 3
+},
+{
+"id": "en-cultura-053",
+"p": "In Shakespeare's play, which character plots against Othello?",
+"o": [
+"Iago",
+"Cassio",
+"Brabantio",
+"Roderigo"
+],
+"r": 0,
+"d": 3
+},
+{
+"id": "en-cultura-054",
+"p": "What is the study of fungi called?",
+"o": [
+"Botany",
+"Mycology",
+"Entomology",
+"Ornithology"
+],
+"r": 1,
+"d": 3
+},
+{
+"id": "en-cultura-055",
+"p": "Which organ in the body produces insulin?",
+"o": [
+"Liver",
+"Kidney",
+"Pancreas",
+"Spleen"
+],
+"r": 2,
+"d": 3
+}
+]
+}

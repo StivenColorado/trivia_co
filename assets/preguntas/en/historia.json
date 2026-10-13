@@ -1,0 +1,666 @@
+{
+ "idioma": "en",
+ "categoria": "historia",
+ "preguntas": [
+  {
+   "id": "en-historia-001",
+   "p": "Who was the first President of the United States?",
+   "o": [
+    "George Washington",
+    "Thomas Jefferson",
+    "John Adams",
+    "James Madison"
+   ],
+   "r": 0,
+   "d": 1
+  },
+  {
+   "id": "en-historia-002",
+   "p": "In what year did Columbus first reach the Americas?",
+   "o": [
+    "1592",
+    "1492",
+    "1482",
+    "1392"
+   ],
+   "r": 1,
+   "d": 1
+  },
+  {
+   "id": "en-historia-003",
+   "p": "Which ancient people built the Pyramids of Giza?",
+   "o": [
+    "Romans",
+    "Greeks",
+    "Egyptians",
+    "Aztecs"
+   ],
+   "r": 2,
+   "d": 1
+  },
+  {
+   "id": "en-historia-004",
+   "p": "Which war was fought between the US North and South?",
+   "o": [
+    "War of 1812",
+    "Korean War",
+    "Seven Years' War",
+    "American Civil War"
+   ],
+   "r": 3,
+   "d": 1
+  },
+  {
+   "id": "en-historia-005",
+   "p": "Who was the first person to walk on the Moon?",
+   "o": [
+    "Neil Armstrong",
+    "Buzz Aldrin",
+    "Yuri Gagarin",
+    "John Glenn"
+   ],
+   "r": 0,
+   "d": 1
+  },
+  {
+   "id": "en-historia-006",
+   "p": "In which year did World War II end?",
+   "o": [
+    "1918",
+    "1945",
+    "1939",
+    "1950"
+   ],
+   "r": 1,
+   "d": 1
+  },
+  {
+   "id": "en-historia-007",
+   "p": "Which ship sank in 1912 after hitting an iceberg?",
+   "o": [
+    "Lusitania",
+    "Mayflower",
+    "Titanic",
+    "Endeavour"
+   ],
+   "r": 2,
+   "d": 1
+  },
+  {
+   "id": "en-historia-008",
+   "p": "Which city was divided by a wall until 1989?",
+   "o": [
+    "Vienna",
+    "Warsaw",
+    "Prague",
+    "Berlin"
+   ],
+   "r": 3,
+   "d": 1
+  },
+  {
+   "id": "en-historia-009",
+   "p": "In what year was the US Declaration of Independence adopted?",
+   "o": [
+    "1776",
+    "1789",
+    "1812",
+    "1765"
+   ],
+   "r": 0,
+   "d": 1
+  },
+  {
+   "id": "en-historia-010",
+   "p": "Which country gave the Statue of Liberty to the US?",
+   "o": [
+    "England",
+    "France",
+    "Spain",
+    "Canada"
+   ],
+   "r": 1,
+   "d": 1
+  },
+  {
+   "id": "en-historia-011",
+   "p": "Who was US president during the Civil War?",
+   "o": [
+    "Ulysses Grant",
+    "Andrew Jackson",
+    "Abraham Lincoln",
+    "James Polk"
+   ],
+   "r": 2,
+   "d": 1
+  },
+  {
+   "id": "en-historia-012",
+   "p": "Which queen ruled Britain from 1837 to 1901?",
+   "o": [
+    "Elizabeth I",
+    "Queen Anne",
+    "Mary I",
+    "Queen Victoria"
+   ],
+   "r": 3,
+   "d": 1
+  },
+  {
+   "id": "en-historia-013",
+   "p": "Which British Prime Minister led the UK in most of WWII?",
+   "o": [
+    "Winston Churchill",
+    "Neville Chamberlain",
+    "Clement Attlee",
+    "Harold Wilson"
+   ],
+   "r": 0,
+   "d": 1
+  },
+  {
+   "id": "en-historia-014",
+   "p": "Who gave the 'I Have a Dream' speech in 1963?",
+   "o": [
+    "Malcolm X",
+    "Martin Luther King Jr.",
+    "Frederick Douglass",
+    "Booker Washington"
+   ],
+   "r": 1,
+   "d": 1
+  },
+  {
+   "id": "en-historia-015",
+   "p": "Which Roman city was buried by Vesuvius in 79 AD?",
+   "o": [
+    "Athens",
+    "Carthage",
+    "Pompeii",
+    "Troy"
+   ],
+   "r": 2,
+   "d": 1
+  },
+  {
+   "id": "en-historia-016",
+   "p": "Who was first woman to fly solo across the Atlantic?",
+   "o": [
+    "Bessie Coleman",
+    "Harriet Quimby",
+    "Jacqueline Cochran",
+    "Amelia Earhart"
+   ],
+   "r": 3,
+   "d": 1
+  },
+  {
+   "id": "en-historia-017",
+   "p": "What ship carried the Pilgrims to America in 1620?",
+   "o": [
+    "Mayflower",
+    "Santa Maria",
+    "Endeavour",
+    "Discovery"
+   ],
+   "r": 0,
+   "d": 1
+  },
+  {
+   "id": "en-historia-018",
+   "p": "Which boy pharaoh's tomb was found in 1922?",
+   "o": [
+    "Ramses II",
+    "Tutankhamun",
+    "Akhenaten",
+    "Khufu"
+   ],
+   "r": 1,
+   "d": 1
+  },
+  {
+   "id": "en-historia-019",
+   "p": "Which region were the Vikings from?",
+   "o": [
+    "Iberia",
+    "Anatolia",
+    "Scandinavia",
+    "The Balkans"
+   ],
+   "r": 2,
+   "d": 1
+  },
+  {
+   "id": "en-historia-020",
+   "p": "The French Revolution began in which century?",
+   "o": [
+    "17th century",
+    "19th century",
+    "16th century",
+    "18th century"
+   ],
+   "r": 3,
+   "d": 1
+  },
+  {
+   "id": "en-historia-021",
+   "p": "Which Greek city is known as the birthplace of democracy?",
+   "o": [
+    "Athens",
+    "Sparta",
+    "Corinth",
+    "Thebes"
+   ],
+   "r": 0,
+   "d": 1
+  },
+  {
+   "id": "en-historia-022",
+   "p": "Which US president led the country in most of WWII?",
+   "o": [
+    "Harry Truman",
+    "Franklin D. Roosevelt",
+    "Woodrow Wilson",
+    "Herbert Hoover"
+   ],
+   "r": 1,
+   "d": 1
+  },
+  {
+   "id": "en-historia-023",
+   "p": "In what year was the Magna Carta sealed?",
+   "o": [
+    "1066",
+    "1415",
+    "1215",
+    "1315"
+   ],
+   "r": 2,
+   "d": 2
+  },
+  {
+   "id": "en-historia-024",
+   "p": "Who won the Battle of Hastings in 1066?",
+   "o": [
+    "Harold Godwinson",
+    "King Canute",
+    "Alfred the Great",
+    "William of Normandy"
+   ],
+   "r": 3,
+   "d": 2
+  },
+  {
+   "id": "en-historia-025",
+   "p": "Who was the first emperor of Rome?",
+   "o": [
+    "Augustus",
+    "Julius Caesar",
+    "Nero",
+    "Constantine"
+   ],
+   "r": 0,
+   "d": 2
+  },
+  {
+   "id": "en-historia-026",
+   "p": "Whose expedition first sailed around the world?",
+   "o": [
+    "Vasco da Gama",
+    "Ferdinand Magellan",
+    "James Cook",
+    "Francisco Pizarro"
+   ],
+   "r": 1,
+   "d": 2
+  },
+  {
+   "id": "en-historia-027",
+   "p": "How many wives did King Henry VIII have?",
+   "o": [
+    "Four",
+    "Five",
+    "Six",
+    "Eight"
+   ],
+   "r": 2,
+   "d": 2
+  },
+  {
+   "id": "en-historia-028",
+   "p": "In which year did World War I begin?",
+   "o": [
+    "1912",
+    "1916",
+    "1918",
+    "1914"
+   ],
+   "r": 3,
+   "d": 2
+  },
+  {
+   "id": "en-historia-029",
+   "p": "Which 1919 treaty formally ended WWI with Germany?",
+   "o": [
+    "Treaty of Versailles",
+    "Treaty of Paris",
+    "Treaty of Ghent",
+    "Treaty of Utrecht"
+   ],
+   "r": 0,
+   "d": 2
+  },
+  {
+   "id": "en-historia-030",
+   "p": "Which 1863 order freed enslaved people in rebel states?",
+   "o": [
+    "Gettysburg Address",
+    "Emancipation Proclamation",
+    "Homestead Act",
+    "Bill of Rights"
+   ],
+   "r": 1,
+   "d": 2
+  },
+  {
+   "id": "en-historia-031",
+   "p": "Which civilization built Machu Picchu?",
+   "o": [
+    "Maya",
+    "Aztec",
+    "Inca",
+    "Olmec"
+   ],
+   "r": 2,
+   "d": 2
+  },
+  {
+   "id": "en-historia-032",
+   "p": "Which empire did Genghis Khan found?",
+   "o": [
+    "Ottoman Empire",
+    "Persian Empire",
+    "Byzantine Empire",
+    "Mongol Empire"
+   ],
+   "r": 3,
+   "d": 2
+  },
+  {
+   "id": "en-historia-033",
+   "p": "Which nation was the US's main Cold War rival?",
+   "o": [
+    "Soviet Union",
+    "China",
+    "Germany",
+    "Japan"
+   ],
+   "r": 0,
+   "d": 2
+  },
+  {
+   "id": "en-historia-034",
+   "p": "In which year did Apollo 11 land on the Moon?",
+   "o": [
+    "1965",
+    "1969",
+    "1972",
+    "1961"
+   ],
+   "r": 1,
+   "d": 2
+  },
+  {
+   "id": "en-historia-035",
+   "p": "Which Egyptian queen allied with Mark Antony?",
+   "o": [
+    "Nefertiti",
+    "Hatshepsut",
+    "Cleopatra",
+    "Isis"
+   ],
+   "r": 2,
+   "d": 2
+  },
+  {
+   "id": "en-historia-036",
+   "p": "Which 1815 battle ended Napoleon's rule?",
+   "o": [
+    "Trafalgar",
+    "Austerlitz",
+    "Hastings",
+    "Waterloo"
+   ],
+   "r": 3,
+   "d": 2
+  },
+  {
+   "id": "en-historia-037",
+   "p": "Which admiral died at the Battle of Trafalgar?",
+   "o": [
+    "Horatio Nelson",
+    "Duke of Wellington",
+    "Francis Drake",
+    "James Cook"
+   ],
+   "r": 0,
+   "d": 2
+  },
+  {
+   "id": "en-historia-038",
+   "p": "In what year was the Great Fire of London?",
+   "o": [
+    "1766",
+    "1666",
+    "1566",
+    "1606"
+   ],
+   "r": 1,
+   "d": 2
+  },
+  {
+   "id": "en-historia-039",
+   "p": "What was the first lasting English colony in America?",
+   "o": [
+    "Plymouth",
+    "Roanoke",
+    "Jamestown",
+    "Boston"
+   ],
+   "r": 2,
+   "d": 2
+  },
+  {
+   "id": "en-historia-040",
+   "p": "Which document opens with 'We the People'?",
+   "o": [
+    "Declaration of Independence",
+    "Magna Carta",
+    "Bill of Rights",
+    "US Constitution"
+   ],
+   "r": 3,
+   "d": 2
+  },
+  {
+   "id": "en-historia-041",
+   "p": "Who was the UK's first female Prime Minister?",
+   "o": [
+    "Margaret Thatcher",
+    "Theresa May",
+    "Liz Truss",
+    "Mary Robinson"
+   ],
+   "r": 0,
+   "d": 2
+  },
+  {
+   "id": "en-historia-042",
+   "p": "Which ancient wonder stood in Alexandria, Egypt?",
+   "o": [
+    "Hanging Gardens",
+    "Lighthouse of Alexandria",
+    "Colossus of Rhodes",
+    "Temple of Artemis"
+   ],
+   "r": 1,
+   "d": 2
+  },
+  {
+   "id": "en-historia-043",
+   "p": "From whom did the US buy land in the 1803 Purchase?",
+   "o": [
+    "Spain",
+    "Britain",
+    "France",
+    "Mexico"
+   ],
+   "r": 2,
+   "d": 2
+  },
+  {
+   "id": "en-historia-044",
+   "p": "Who was crowned Emperor of the French in 1804?",
+   "o": [
+    "Louis XIV",
+    "Charlemagne",
+    "Robespierre",
+    "Napoleon Bonaparte"
+   ],
+   "r": 3,
+   "d": 2
+  },
+  {
+   "id": "en-historia-045",
+   "p": "Which empire had Constantinople as capital in 400 AD?",
+   "o": [
+    "Byzantine",
+    "Persian",
+    "Mongol",
+    "Holy Roman"
+   ],
+   "r": 0,
+   "d": 3
+  },
+  {
+   "id": "en-historia-046",
+   "p": "Which 1648 treaty ended the Thirty Years' War?",
+   "o": [
+    "Treaty of Utrecht",
+    "Peace of Westphalia",
+    "Congress of Vienna",
+    "Treaty of Paris"
+   ],
+   "r": 1,
+   "d": 3
+  },
+  {
+   "id": "en-historia-047",
+   "p": "Who was the first Tudor monarch of England?",
+   "o": [
+    "Henry VIII",
+    "Edward IV",
+    "Henry VII",
+    "Richard III"
+   ],
+   "r": 2,
+   "d": 3
+  },
+  {
+   "id": "en-historia-048",
+   "p": "Which general crossed the Alps with elephants?",
+   "o": [
+    "Hamilcar",
+    "Scipio",
+    "Pyrrhus",
+    "Hannibal"
+   ],
+   "r": 3,
+   "d": 3
+  },
+  {
+   "id": "en-historia-049",
+   "p": "In which year did the Western Roman Empire fall?",
+   "o": [
+    "476 AD",
+    "410 AD",
+    "800 AD",
+    "1453 AD"
+   ],
+   "r": 0,
+   "d": 3
+  },
+  {
+   "id": "en-historia-050",
+   "p": "Which dynasty built most of the existing Great Wall?",
+   "o": [
+    "Qin",
+    "Ming",
+    "Han",
+    "Tang"
+   ],
+   "r": 1,
+   "d": 3
+  },
+  {
+   "id": "en-historia-051",
+   "p": "Who became first Chancellor of unified Germany in 1871?",
+   "o": [
+    "Klemens von Metternich",
+    "Kaiser Wilhelm",
+    "Otto von Bismarck",
+    "Paul Hindenburg"
+   ],
+   "r": 2,
+   "d": 3
+  },
+  {
+   "id": "en-historia-052",
+   "p": "Who was assassinated in Sarajevo in 1914?",
+   "o": [
+    "Tsar Nicholas II",
+    "Kaiser Wilhelm II",
+    "King Edward VII",
+    "Archduke Franz Ferdinand"
+   ],
+   "r": 3,
+   "d": 3
+  },
+  {
+   "id": "en-historia-053",
+   "p": "Which pharaoh built the Great Pyramid of Giza?",
+   "o": [
+    "Khufu",
+    "Ramses II",
+    "Tutankhamun",
+    "Akhenaten"
+   ],
+   "r": 0,
+   "d": 3
+  },
+  {
+   "id": "en-historia-054",
+   "p": "In what year did the Wall Street Crash occur?",
+   "o": [
+    "1919",
+    "1929",
+    "1939",
+    "1933"
+   ],
+   "r": 1,
+   "d": 3
+  },
+  {
+   "id": "en-historia-055",
+   "p": "Which explorer reached India by sea in 1498?",
+   "o": [
+    "Ferdinand Magellan",
+    "Bartolomeu Dias",
+    "Vasco da Gama",
+    "Pedro Cabral"
+   ],
+   "r": 2,
+   "d": 3
+  }
+ ]
+}

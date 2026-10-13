@@ -1,0 +1,22 @@
+Política de privacidad
+Vigente desde: 13 de octubre de 2026
+
+Esta aplicación de trivia no tiene cuentas de usuario: no te pedimos nombre, correo ni contraseña, y no operamos un servidor propio que reciba tus datos.
+
+Datos guardados en tu dispositivo
+Tu progreso (nivel, XP, monedas, racha, protectores, estadísticas, idioma y ajustes) y un contador de días de uso se guardan solo en el almacenamiento local de tu teléfono. No los enviamos a nosotros. Si desinstalas la app o borras sus datos, se eliminan.
+
+Anuncios (Google AdMob)
+La app muestra anuncios mediante Google AdMob. AdMob puede usar el ID de publicidad de tu dispositivo, tu dirección IP y datos técnicos del dispositivo para mostrar anuncios, medir su rendimiento y prevenir fraude. Si resides en el Espacio Económico Europeo, Reino Unido u otras regiones que lo exigen, se muestra un formulario de consentimiento (Google UMP) antes de pedir anuncios; puedes cambiar tu decisión en Ajustes > Opciones de privacidad. Puedes restablecer o desactivar el ID de publicidad en los ajustes de Android (Google > Anuncios). Más información: https://policies.google.com/technologies/ads
+
+Notificaciones
+Si lo aceptas, la app programa recordatorios locales (hasta 3, a las 19:00) para volver al reto diario. Se generan en tu dispositivo, sin servidor. Puedes desactivarlos en los ajustes de Android.
+
+Menores
+La app está dirigida a mayores de 13 años y no recopilamos a sabiendas datos de menores de esa edad.
+
+Cambios
+Si esta política cambia, actualizaremos la fecha de vigencia.
+
+Contacto
+[CORREO DE CONTACTO]

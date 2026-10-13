@@ -1,0 +1,666 @@
+{
+"idioma": "es",
+"categoria": "historia",
+"preguntas": [
+{
+"id": "es-historia-001",
+"p": "¿En qué año llegó Cristóbal Colón a América?",
+"o": [
+"1453",
+"1519",
+"1607",
+"1492"
+],
+"r": 3,
+"d": 1
+},
+{
+"id": "es-historia-002",
+"p": "¿Qué civilización construyó las pirámides de Giza?",
+"o": [
+"Imperio romano",
+"Los mayas",
+"Antiguo Egipto",
+"Mesopotamia"
+],
+"r": 2,
+"d": 1
+},
+{
+"id": "es-historia-003",
+"p": "¿En qué continente surgió la civilización inca?",
+"o": [
+"América Central",
+"América del Sur",
+"Asia",
+"África"
+],
+"r": 1,
+"d": 1
+},
+{
+"id": "es-historia-004",
+"p": "¿Quién fue el primer presidente de Estados Unidos?",
+"o": [
+"Abraham Lincoln",
+"George Washington",
+"Thomas Jefferson",
+"John Adams"
+],
+"r": 1,
+"d": 1
+},
+{
+"id": "es-historia-005",
+"p": "¿Qué imperio tenía por capital a Tenochtitlan?",
+"o": [
+"Imperio azteca",
+"Imperio inca",
+"Imperio maya",
+"Imperio olmeca"
+],
+"r": 0,
+"d": 1
+},
+{
+"id": "es-historia-006",
+"p": "¿En qué año comenzó la Primera Guerra Mundial?",
+"o": [
+"1905",
+"1918",
+"1939",
+"1914"
+],
+"r": 3,
+"d": 1
+},
+{
+"id": "es-historia-007",
+"p": "¿En qué año terminó la Segunda Guerra Mundial?",
+"o": [
+"1939",
+"1941",
+"1945",
+"1950"
+],
+"r": 2,
+"d": 1
+},
+{
+"id": "es-historia-008",
+"p": "¿Quién nació en Caracas en 1783 y lideró la independencia de la Gran Colombia?",
+"o": [
+"José de San Martín",
+"Francisco de Miranda",
+"Simón Bolívar",
+"Bernardo O'Higgins"
+],
+"r": 2,
+"d": 1
+},
+{
+"id": "es-historia-009",
+"p": "¿Qué muro cayó en 1989 en Alemania?",
+"o": [
+"La Muralla China",
+"El Muro de Berlín",
+"El Muro de Adriano",
+"La Línea Maginot"
+],
+"r": 1,
+"d": 1
+},
+{
+"id": "es-historia-010",
+"p": "¿Cómo se llamaba el barco que se hundió en 1912 tras chocar con un iceberg?",
+"o": [
+"Titanic",
+"Britannic",
+"Lusitania",
+"Mayflower"
+],
+"r": 0,
+"d": 1
+},
+{
+"id": "es-historia-011",
+"p": "¿Qué pueblo construyó Machu Picchu?",
+"o": [
+"Los mayas",
+"Los aztecas",
+"Los olmecas",
+"Los incas"
+],
+"r": 3,
+"d": 1
+},
+{
+"id": "es-historia-012",
+"p": "¿Qué emperador francés fue derrotado en Waterloo en 1815?",
+"o": [
+"Luis XIV",
+"Carlomagno",
+"Julio César",
+"Napoleón Bonaparte"
+],
+"r": 3,
+"d": 1
+},
+{
+"id": "es-historia-013",
+"p": "¿Qué ciudad dio nombre al Imperio romano?",
+"o": [
+"Atenas",
+"Esparta",
+"Roma",
+"Cartago"
+],
+"r": 2,
+"d": 1
+},
+{
+"id": "es-historia-014",
+"p": "¿Qué civilización inventó los Juegos Olímpicos?",
+"o": [
+"Antigua Roma",
+"Antigua Grecia",
+"Antiguo Egipto",
+"Persia"
+],
+"r": 1,
+"d": 1
+},
+{
+"id": "es-historia-015",
+"p": "¿Qué revolución comenzó en 1789 con la toma de la Bastilla?",
+"o": [
+"Revolución francesa",
+"Revolución rusa",
+"Revolución industrial",
+"Revolución cubana"
+],
+"r": 0,
+"d": 1
+},
+{
+"id": "es-historia-016",
+"p": "¿Qué sistema de escritura usaban los antiguos egipcios?",
+"o": [
+"Jeroglíficos",
+"Escritura cuneiforme",
+"Runas",
+"Alfabeto latino"
+],
+"r": 0,
+"d": 1
+},
+{
+"id": "es-historia-017",
+"p": "¿Qué día se celebra la independencia de Estados Unidos?",
+"o": [
+"El 14 de julio",
+"El 4 de junio",
+"El 1 de julio",
+"El 4 de julio"
+],
+"r": 3,
+"d": 1
+},
+{
+"id": "es-historia-018",
+"p": "¿Quién fue el primer ser humano en pisar la Luna, en 1969?",
+"o": [
+"Buzz Aldrin",
+"Yuri Gagarin",
+"Neil Armstrong",
+"John Glenn"
+],
+"r": 2,
+"d": 1
+},
+{
+"id": "es-historia-019",
+"p": "¿Qué ciudad italiana fue sepultada por el Vesubio en el año 79?",
+"o": [
+"Roma",
+"Pompeya",
+"Nápoles",
+"Florencia"
+],
+"r": 1,
+"d": 1
+},
+{
+"id": "es-historia-020",
+"p": "¿Qué pueblo construyó la ciudad de Chichén Itzá?",
+"o": [
+"Los incas",
+"Los mayas",
+"Los aztecas",
+"Los olmecas"
+],
+"r": 1,
+"d": 1
+},
+{
+"id": "es-historia-021",
+"p": "¿Qué reina de Egipto fue aliada de Julio César y Marco Antonio?",
+"o": [
+"Cleopatra",
+"Nefertiti",
+"Hatshepsut",
+"Isis"
+],
+"r": 0,
+"d": 1
+},
+{
+"id": "es-historia-022",
+"p": "¿Quién lideró la independencia de la India mediante la no violencia?",
+"o": [
+"Jawaharlal Nehru",
+"Muhammad Ali Jinnah",
+"Subhas Chandra Bose",
+"Mahatma Gandhi"
+],
+"r": 3,
+"d": 1
+},
+{
+"id": "es-historia-023",
+"p": "¿De qué país europeo se independizó Brasil en 1822?",
+"o": [
+"España",
+"Francia",
+"Portugal",
+"Países Bajos"
+],
+"r": 2,
+"d": 2
+},
+{
+"id": "es-historia-024",
+"p": "¿Qué general cartaginés cruzó los Alpes con elefantes?",
+"o": [
+"Escipión",
+"Julio César",
+"Aníbal",
+"Pirro"
+],
+"r": 2,
+"d": 2
+},
+{
+"id": "es-historia-025",
+"p": "¿Qué conquistador español derrotó al Imperio azteca?",
+"o": [
+"Francisco Pizarro",
+"Hernán Cortés",
+"Pedro de Alvarado",
+"Diego de Almagro"
+],
+"r": 1,
+"d": 2
+},
+{
+"id": "es-historia-026",
+"p": "¿Qué conquistador español derrotó al Imperio inca?",
+"o": [
+"Francisco Pizarro",
+"Hernán Cortés",
+"Vasco Núñez de Balboa",
+"Pedro de Valdivia"
+],
+"r": 0,
+"d": 2
+},
+{
+"id": "es-historia-027",
+"p": "¿Qué batalla de 1819 selló la independencia de Colombia?",
+"o": [
+"Batalla de Ayacucho",
+"Batalla de Carabobo",
+"Batalla de Pichincha",
+"Batalla de Boyacá"
+],
+"r": 3,
+"d": 2
+},
+{
+"id": "es-historia-028",
+"p": "¿Qué filósofo griego fue maestro de Alejandro Magno?",
+"o": [
+"Platón",
+"Sócrates",
+"Pitágoras",
+"Aristóteles"
+],
+"r": 3,
+"d": 2
+},
+{
+"id": "es-historia-029",
+"p": "¿Qué tratado de 1494 repartió el Nuevo Mundo entre España y Portugal?",
+"o": [
+"Tratado de Versalles",
+"Paz de Westfalia",
+"Tratado de Tordesillas",
+"Tratado de Utrecht"
+],
+"r": 2,
+"d": 2
+},
+{
+"id": "es-historia-030",
+"p": "¿Cuál fue la capital del Imperio bizantino?",
+"o": [
+"Alejandría",
+"Constantinopla",
+"Atenas",
+"Antioquía"
+],
+"r": 1,
+"d": 2
+},
+{
+"id": "es-historia-031",
+"p": "¿Qué invento de Gutenberg revolucionó la difusión del saber?",
+"o": [
+"Imprenta de tipos móviles",
+"El telar mecánico",
+"La brújula",
+"El telescopio"
+],
+"r": 0,
+"d": 2
+},
+{
+"id": "es-historia-032",
+"p": "¿Quién lideró a los bolcheviques en la Revolución rusa de 1917?",
+"o": [
+"Vladimir Lenin",
+"Iósif Stalin",
+"Nicolás II",
+"Aleksandr Kérenski"
+],
+"r": 0,
+"d": 2
+},
+{
+"id": "es-historia-033",
+"p": "¿Qué guerra enfrentó al Norte y al Sur de EE. UU. entre 1861 y 1865?",
+"o": [
+"Guerra de Independencia",
+"Guerra de 1812",
+"Guerra Fría",
+"Guerra de Secesión"
+],
+"r": 3,
+"d": 2
+},
+{
+"id": "es-historia-034",
+"p": "¿Qué general argentino lideró el Ejército de los Andes en 1817?",
+"o": [
+"Simón Bolívar",
+"Antonio José de Sucre",
+"José de San Martín",
+"Manuel Belgrano"
+],
+"r": 2,
+"d": 2
+},
+{
+"id": "es-historia-035",
+"p": "¿Qué ciudad fue el último reino musulmán en caer en España, en 1492?",
+"o": [
+"Córdoba",
+"Granada",
+"Sevilla",
+"Toledo"
+],
+"r": 1,
+"d": 2
+},
+{
+"id": "es-historia-036",
+"p": "¿En qué año cayó Constantinopla en manos de los otomanos?",
+"o": [
+"1492",
+"1453",
+"1204",
+"1517"
+],
+"r": 1,
+"d": 2
+},
+{
+"id": "es-historia-037",
+"p": "¿Quién fundó el Imperio mongol en 1206?",
+"o": [
+"Gengis Kan",
+"Atila",
+"Tamerlán",
+"Kublai Kan"
+],
+"r": 0,
+"d": 2
+},
+{
+"id": "es-historia-038",
+"p": "¿Qué revolución mecanizó la producción en Gran Bretaña en el siglo XVIII?",
+"o": [
+"Revolución neolítica",
+"Revolución gloriosa",
+"Revolución francesa",
+"Revolución industrial"
+],
+"r": 3,
+"d": 2
+},
+{
+"id": "es-historia-039",
+"p": "¿Qué presidente de EE. UU. gobernó durante la Guerra de Secesión?",
+"o": [
+"Ulysses Grant",
+"Andrew Johnson",
+"Abraham Lincoln",
+"Thomas Jefferson"
+],
+"r": 2,
+"d": 2
+},
+{
+"id": "es-historia-040",
+"p": "¿Qué cultura preincaica dibujó las famosas líneas del desierto del Perú?",
+"o": [
+"La cultura Chavín",
+"La cultura Moche",
+"La cultura Nazca",
+"La cultura Tiwanaku"
+],
+"r": 2,
+"d": 2
+},
+{
+"id": "es-historia-041",
+"p": "¿Qué país fue el primero de Latinoamérica en independizarse, en 1804?",
+"o": [
+"Cuba",
+"Haití",
+"México",
+"Venezuela"
+],
+"r": 1,
+"d": 2
+},
+{
+"id": "es-historia-042",
+"p": "¿Cuál fue la lengua general del Imperio inca?",
+"o": [
+"Quechua",
+"Aimara",
+"Guaraní",
+"Náhuatl"
+],
+"r": 0,
+"d": 2
+},
+{
+"id": "es-historia-043",
+"p": "¿Qué canal que une el Atlántico y el Pacífico se inauguró en 1914?",
+"o": [
+"Canal de Suez",
+"Canal de Corinto",
+"Canal de Kiel",
+"Canal de Panamá"
+],
+"r": 3,
+"d": 2
+},
+{
+"id": "es-historia-044",
+"p": "¿Qué guerra enfrentó a Atenas contra Esparta?",
+"o": [
+"Guerras púnicas",
+"Guerras médicas",
+"Guerra de Troya",
+"Guerra del Peloponeso"
+],
+"r": 3,
+"d": 2
+},
+{
+"id": "es-historia-045",
+"p": "¿Qué dinastía china mandó construir el Ejército de Terracota?",
+"o": [
+"Dinastía Han",
+"Dinastía Ming",
+"Dinastía Qin",
+"Dinastía Tang"
+],
+"r": 2,
+"d": 3
+},
+{
+"id": "es-historia-046",
+"p": "¿Qué emperador romano promulgó el Edicto de Milán en 313?",
+"o": [
+"Nerón",
+"Constantino I",
+"Diocleciano",
+"Augusto"
+],
+"r": 1,
+"d": 3
+},
+{
+"id": "es-historia-047",
+"p": "¿Qué guerra terminó con la Paz de Westfalia en 1648?",
+"o": [
+"Guerra de los Treinta Años",
+"Guerra de los Cien Años",
+"Guerra de los Siete Años",
+"Guerra de las Dos Rosas"
+],
+"r": 0,
+"d": 3
+},
+{
+"id": "es-historia-048",
+"p": "¿Quién fue el primer emperador de Roma?",
+"o": [
+"Augusto",
+"Julio César",
+"Nerón",
+"Trajano"
+],
+"r": 0,
+"d": 3
+},
+{
+"id": "es-historia-049",
+"p": "¿Qué rey inglés firmó la Carta Magna en 1215?",
+"o": [
+"Ricardo Corazón de León",
+"Enrique VIII",
+"Eduardo I",
+"Juan sin Tierra"
+],
+"r": 3,
+"d": 3
+},
+{
+"id": "es-historia-050",
+"p": "¿Qué batalla de 1824 selló la independencia del Perú?",
+"o": [
+"Batalla de Junín",
+"Batalla de Boyacá",
+"Batalla de Ayacucho",
+"Batalla de Pichincha"
+],
+"r": 2,
+"d": 3
+},
+{
+"id": "es-historia-051",
+"p": "¿Qué pueblo mesopotámico creó la escritura cuneiforme?",
+"o": [
+"Los hititas",
+"Los sumerios",
+"Los fenicios",
+"Los persas"
+],
+"r": 1,
+"d": 3
+},
+{
+"id": "es-historia-052",
+"p": "¿Qué conferencia de 1884-1885 repartió África entre potencias europeas?",
+"o": [
+"Conferencia de Yalta",
+"Conferencia de Berlín",
+"Congreso de Viena",
+"Conferencia de Potsdam"
+],
+"r": 1,
+"d": 3
+},
+{
+"id": "es-historia-053",
+"p": "¿En qué año se firmó el Tratado de Versalles?",
+"o": [
+"1919",
+"1918",
+"1920",
+"1915"
+],
+"r": 0,
+"d": 3
+},
+{
+"id": "es-historia-054",
+"p": "¿Quién fue el último emperador azteca?",
+"o": [
+"Moctezuma II",
+"Atahualpa",
+"Cuitláhuac",
+"Cuauhtémoc"
+],
+"r": 3,
+"d": 3
+},
+{
+"id": "es-historia-055",
+"p": "¿Qué ciudad fenicia fundó Cartago?",
+"o": [
+"Sidón",
+"Biblos",
+"Tiro",
+"Ugarit"
+],
+"r": 2,
+"d": 3
+}
+]
+}

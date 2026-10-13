@@ -1,0 +1,666 @@
+{
+"idioma": "es",
+"categoria": "ciencia",
+"preguntas": [
+{
+"id": "es-ciencia-001",
+"p": "¿Cuál es el planeta más grande del sistema solar?",
+"o": [
+"Saturno",
+"Neptuno",
+"Urano",
+"Júpiter"
+],
+"r": 3,
+"d": 1
+},
+{
+"id": "es-ciencia-002",
+"p": "¿Qué gas necesitan las plantas para la fotosíntesis?",
+"o": [
+"Oxígeno",
+"Nitrógeno",
+"Dióxido de carbono",
+"Hidrógeno"
+],
+"r": 2,
+"d": 1
+},
+{
+"id": "es-ciencia-003",
+"p": "¿Cuál es la fórmula química del agua?",
+"o": [
+"HO2",
+"H2O",
+"H2O2",
+"OH"
+],
+"r": 1,
+"d": 1
+},
+{
+"id": "es-ciencia-004",
+"p": "¿Cuántos huesos tiene el cuerpo de un adulto?",
+"o": [
+"156",
+"206",
+"256",
+"306"
+],
+"r": 1,
+"d": 1
+},
+{
+"id": "es-ciencia-005",
+"p": "¿Qué planeta es conocido como el planeta rojo?",
+"o": [
+"Marte",
+"Venus",
+"Mercurio",
+"Júpiter"
+],
+"r": 0,
+"d": 1
+},
+{
+"id": "es-ciencia-006",
+"p": "¿Qué órgano bombea la sangre por el cuerpo?",
+"o": [
+"El hígado",
+"El pulmón",
+"El riñón",
+"El corazón"
+],
+"r": 3,
+"d": 1
+},
+{
+"id": "es-ciencia-007",
+"p": "¿A qué temperatura hierve el agua al nivel del mar?",
+"o": [
+"90 °C",
+"80 °C",
+"100 °C",
+"120 °C"
+],
+"r": 2,
+"d": 1
+},
+{
+"id": "es-ciencia-008",
+"p": "¿Cuál es el animal más grande del planeta?",
+"o": [
+"El elefante africano",
+"El tiburón ballena",
+"La ballena azul",
+"La jirafa"
+],
+"r": 2,
+"d": 1
+},
+{
+"id": "es-ciencia-009",
+"p": "¿Cuántos planetas tiene el sistema solar?",
+"o": [
+"Siete",
+"Ocho",
+"Nueve",
+"Diez"
+],
+"r": 1,
+"d": 1
+},
+{
+"id": "es-ciencia-010",
+"p": "¿Qué estrella es el centro de nuestro sistema solar?",
+"o": [
+"El Sol",
+"Sirio",
+"Polaris",
+"Alfa Centauri"
+],
+"r": 0,
+"d": 1
+},
+{
+"id": "es-ciencia-011",
+"p": "¿Qué elemento químico tiene el símbolo O?",
+"o": [
+"Oro",
+"Osmio",
+"Ozono",
+"Oxígeno"
+],
+"r": 3,
+"d": 1
+},
+{
+"id": "es-ciencia-012",
+"p": "¿Cuál es el satélite natural de la Tierra?",
+"o": [
+"Fobos",
+"Europa",
+"Titán",
+"La Luna"
+],
+"r": 3,
+"d": 1
+},
+{
+"id": "es-ciencia-013",
+"p": "¿A qué clase de animales pertenece la ballena?",
+"o": [
+"Peces",
+"Reptiles",
+"Mamíferos",
+"Anfibios"
+],
+"r": 2,
+"d": 1
+},
+{
+"id": "es-ciencia-014",
+"p": "¿Cuántas patas tiene una araña?",
+"o": [
+"Seis",
+"Ocho",
+"Diez",
+"Cuatro"
+],
+"r": 1,
+"d": 1
+},
+{
+"id": "es-ciencia-015",
+"p": "¿Qué fuerza nos mantiene pegados al suelo?",
+"o": [
+"La gravedad",
+"El magnetismo",
+"La inercia",
+"La fricción"
+],
+"r": 0,
+"d": 1
+},
+{
+"id": "es-ciencia-016",
+"p": "¿En qué estado de la materia está el hielo?",
+"o": [
+"Sólido",
+"Líquido",
+"Gaseoso",
+"Plasma"
+],
+"r": 0,
+"d": 1
+},
+{
+"id": "es-ciencia-017",
+"p": "¿Cuál es el hueso más largo del cuerpo humano?",
+"o": [
+"El húmero",
+"La tibia",
+"El peroné",
+"El fémur"
+],
+"r": 3,
+"d": 1
+},
+{
+"id": "es-ciencia-018",
+"p": "¿Qué órgano usamos principalmente para respirar?",
+"o": [
+"El estómago",
+"Los riñones",
+"Los pulmones",
+"El páncreas"
+],
+"r": 2,
+"d": 1
+},
+{
+"id": "es-ciencia-019",
+"p": "¿Qué metal es líquido a temperatura ambiente?",
+"o": [
+"Plomo",
+"Mercurio",
+"Aluminio",
+"Estaño"
+],
+"r": 1,
+"d": 1
+},
+{
+"id": "es-ciencia-020",
+"p": "¿De qué color es la clorofila de las plantas?",
+"o": [
+"Rojo",
+"Verde",
+"Amarillo",
+"Azul"
+],
+"r": 1,
+"d": 1
+},
+{
+"id": "es-ciencia-021",
+"p": "¿Qué científico formuló la teoría de la relatividad?",
+"o": [
+"Albert Einstein",
+"Isaac Newton",
+"Galileo Galilei",
+"Nikola Tesla"
+],
+"r": 0,
+"d": 1
+},
+{
+"id": "es-ciencia-022",
+"p": "¿Qué planeta está más cerca del Sol?",
+"o": [
+"Venus",
+"Tierra",
+"Mercurio",
+"Marte"
+],
+"r": 2,
+"d": 1
+},
+{
+"id": "es-ciencia-023",
+"p": "¿Cuál es el elemento más abundante en el universo?",
+"o": [
+"Helio",
+"Oxígeno",
+"Hidrógeno",
+"Carbono"
+],
+"r": 2,
+"d": 2
+},
+{
+"id": "es-ciencia-024",
+"p": "¿Qué gas es el más abundante en la atmósfera terrestre?",
+"o": [
+"Oxígeno",
+"Argón",
+"Nitrógeno",
+"Dióxido de carbono"
+],
+"r": 2,
+"d": 2
+},
+{
+"id": "es-ciencia-025",
+"p": "¿Cuál es la unidad básica de los seres vivos?",
+"o": [
+"El átomo",
+"La célula",
+"El tejido",
+"La molécula"
+],
+"r": 1,
+"d": 2
+},
+{
+"id": "es-ciencia-026",
+"p": "¿Quién propuso la evolución por selección natural?",
+"o": [
+"Charles Darwin",
+"Gregor Mendel",
+"Louis Pasteur",
+"Jean-Baptiste Lamarck"
+],
+"r": 0,
+"d": 2
+},
+{
+"id": "es-ciencia-027",
+"p": "¿Cuál es el símbolo químico del sodio?",
+"o": [
+"So",
+"S",
+"Sd",
+"Na"
+],
+"r": 3,
+"d": 2
+},
+{
+"id": "es-ciencia-028",
+"p": "¿Qué planeta es famoso por sus anillos visibles?",
+"o": [
+"Júpiter",
+"Urano",
+"Marte",
+"Saturno"
+],
+"r": 3,
+"d": 2
+},
+{
+"id": "es-ciencia-029",
+"p": "¿Qué vitamina produce la piel con la luz solar?",
+"o": [
+"Vitamina C",
+"Vitamina A",
+"Vitamina D",
+"Vitamina K"
+],
+"r": 2,
+"d": 2
+},
+{
+"id": "es-ciencia-030",
+"p": "¿Cuál es la velocidad de la luz en el vacío, aprox.?",
+"o": [
+"150 000 km/s",
+"300 000 km/s",
+"30 000 km/s",
+"3 000 000 km/s"
+],
+"r": 1,
+"d": 2
+},
+{
+"id": "es-ciencia-031",
+"p": "¿Qué parte de la célula humana contiene el ADN?",
+"o": [
+"El núcleo",
+"La membrana",
+"El ribosoma",
+"La vacuola"
+],
+"r": 0,
+"d": 2
+},
+{
+"id": "es-ciencia-032",
+"p": "¿Cuál es el número atómico del hidrógeno?",
+"o": [
+"1",
+"2",
+"0",
+"8"
+],
+"r": 0,
+"d": 2
+},
+{
+"id": "es-ciencia-033",
+"p": "¿Qué grupo sanguíneo es donante universal de glóbulos rojos?",
+"o": [
+"AB positivo",
+"A negativo",
+"B positivo",
+"O negativo"
+],
+"r": 3,
+"d": 2
+},
+{
+"id": "es-ciencia-034",
+"p": "¿Cuál es la capa más externa de la Tierra?",
+"o": [
+"El manto",
+"El núcleo externo",
+"La corteza",
+"El núcleo interno"
+],
+"r": 2,
+"d": 2
+},
+{
+"id": "es-ciencia-035",
+"p": "¿Qué instrumento mide la presión atmosférica?",
+"o": [
+"Termómetro",
+"Barómetro",
+"Higrómetro",
+"Anemómetro"
+],
+"r": 1,
+"d": 2
+},
+{
+"id": "es-ciencia-036",
+"p": "¿Cómo se llama el paso de líquido a vapor?",
+"o": [
+"Condensación",
+"Evaporación",
+"Solidificación",
+"Sublimación"
+],
+"r": 1,
+"d": 2
+},
+{
+"id": "es-ciencia-037",
+"p": "¿Qué científica descubrió el polonio y el radio?",
+"o": [
+"Marie Curie",
+"Rosalind Franklin",
+"Lise Meitner",
+"Ada Lovelace"
+],
+"r": 0,
+"d": 2
+},
+{
+"id": "es-ciencia-038",
+"p": "¿Cuántos cromosomas tiene una célula humana normal?",
+"o": [
+"23",
+"44",
+"48",
+"46"
+],
+"r": 3,
+"d": 2
+},
+{
+"id": "es-ciencia-039",
+"p": "¿En qué galaxia se encuentra nuestro sistema solar?",
+"o": [
+"Andrómeda",
+"El Triángulo",
+"La Vía Láctea",
+"El Sombrero"
+],
+"r": 2,
+"d": 2
+},
+{
+"id": "es-ciencia-040",
+"p": "¿Cuál es el mineral más duro de la escala de Mohs?",
+"o": [
+"Cuarzo",
+"Topacio",
+"Diamante",
+"Corindón"
+],
+"r": 2,
+"d": 2
+},
+{
+"id": "es-ciencia-041",
+"p": "¿Cuál es el único mamífero capaz de volar?",
+"o": [
+"La ardilla voladora",
+"El murciélago",
+"El colibrí",
+"El lémur volador"
+],
+"r": 1,
+"d": 2
+},
+{
+"id": "es-ciencia-042",
+"p": "¿Qué ley afirma que toda acción tiene una reacción igual y opuesta?",
+"o": [
+"Tercera ley de Newton",
+"Primera ley de Newton",
+"Segunda ley de Newton",
+"Ley de Ohm"
+],
+"r": 0,
+"d": 2
+},
+{
+"id": "es-ciencia-043",
+"p": "¿Qué elemento químico tiene el símbolo Fe?",
+"o": [
+"Flúor",
+"Fósforo",
+"Francio",
+"Hierro"
+],
+"r": 3,
+"d": 2
+},
+{
+"id": "es-ciencia-044",
+"p": "¿Qué hueso protege al cerebro?",
+"o": [
+"La pelvis",
+"El esternón",
+"La clavícula",
+"El cráneo"
+],
+"r": 3,
+"d": 2
+},
+{
+"id": "es-ciencia-045",
+"p": "¿Qué elemento tiene número atómico 79?",
+"o": [
+"Plata",
+"Platino",
+"Oro",
+"Mercurio"
+],
+"r": 2,
+"d": 3
+},
+{
+"id": "es-ciencia-046",
+"p": "¿Qué partícula subatómica tiene carga eléctrica negativa?",
+"o": [
+"El protón",
+"El electrón",
+"El neutrón",
+"El fotón"
+],
+"r": 1,
+"d": 3
+},
+{
+"id": "es-ciencia-047",
+"p": "¿Cómo se llama el punto de la órbita lunar más cercano a la Tierra?",
+"o": [
+"Perigeo",
+"Apogeo",
+"Perihelio",
+"Afelio"
+],
+"r": 0,
+"d": 3
+},
+{
+"id": "es-ciencia-048",
+"p": "¿Qué orgánulo produce la mayor parte del ATP celular?",
+"o": [
+"La mitocondria",
+"El lisosoma",
+"El aparato de Golgi",
+"El ribosoma"
+],
+"r": 0,
+"d": 3
+},
+{
+"id": "es-ciencia-049",
+"p": "¿Quién descubrió la penicilina en 1928?",
+"o": [
+"Louis Pasteur",
+"Robert Koch",
+"Edward Jenner",
+"Alexander Fleming"
+],
+"r": 3,
+"d": 3
+},
+{
+"id": "es-ciencia-050",
+"p": "¿Cuál es el pH de una solución neutra a 25 °C?",
+"o": [
+"0",
+"10",
+"7",
+"14"
+],
+"r": 2,
+"d": 3
+},
+{
+"id": "es-ciencia-051",
+"p": "¿Cuál es el gas noble más ligero?",
+"o": [
+"Neón",
+"Helio",
+"Argón",
+"Hidrógeno"
+],
+"r": 1,
+"d": 3
+},
+{
+"id": "es-ciencia-052",
+"p": "¿Quién formuló la ley de la gravitación universal?",
+"o": [
+"Johannes Kepler",
+"Isaac Newton",
+"Galileo Galilei",
+"Robert Hooke"
+],
+"r": 1,
+"d": 3
+},
+{
+"id": "es-ciencia-053",
+"p": "¿Cuál es la unidad de fuerza en el Sistema Internacional?",
+"o": [
+"Newton",
+"Joule",
+"Pascal",
+"Vatio"
+],
+"r": 0,
+"d": 3
+},
+{
+"id": "es-ciencia-054",
+"p": "¿Qué enlace químico implica compartir electrones?",
+"o": [
+"Enlace iónico",
+"Enlace de hidrógeno",
+"Enlace glucosídico",
+"Enlace covalente"
+],
+"r": 3,
+"d": 3
+},
+{
+"id": "es-ciencia-055",
+"p": "¿Quién es considerado el padre de la genética?",
+"o": [
+"Francis Crick",
+"Thomas Morgan",
+"Gregor Mendel",
+"Charles Darwin"
+],
+"r": 2,
+"d": 3
+}
+]
+}

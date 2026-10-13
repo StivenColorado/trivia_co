@@ -1,0 +1,666 @@
+{
+  "idioma": "es",
+  "categoria": "entretenimiento",
+  "preguntas": [
+    {
+      "id": "es-entretenimiento-001",
+      "p": "¿Quién escribió la novela Cien años de soledad?",
+      "o": [
+        "Gabriel García Márquez",
+        "Mario Vargas Llosa",
+        "Julio Cortázar",
+        "Jorge Luis Borges"
+      ],
+      "r": 0,
+      "d": 1
+    },
+    {
+      "id": "es-entretenimiento-002",
+      "p": "¿Quién interpretó la canción \"Waka Waka\" en 2010?",
+      "o": [
+        "Thalía",
+        "Shakira",
+        "Paulina Rubio",
+        "Jennifer López"
+      ],
+      "r": 1,
+      "d": 1
+    },
+    {
+      "id": "es-entretenimiento-003",
+      "p": "¿Cómo se llama el joven mago de la saga de J. K. Rowling?",
+      "o": [
+        "Percy Jackson",
+        "Frodo Bolsón",
+        "Harry Potter",
+        "Merlín Ambrosio"
+      ],
+      "r": 2,
+      "d": 1
+    },
+    {
+      "id": "es-entretenimiento-004",
+      "p": "¿Cómo se llama el fontanero bigotudo de gorra roja de Nintendo?",
+      "o": [
+        "Luigi",
+        "Wario",
+        "Toad",
+        "Mario"
+      ],
+      "r": 3,
+      "d": 1
+    },
+    {
+      "id": "es-entretenimiento-005",
+      "p": "¿Con qué cantante colombiano grabó Shakira \"La bicicleta\"?",
+      "o": [
+        "Carlos Vives",
+        "Juanes",
+        "J Balvin",
+        "Maluma"
+      ],
+      "r": 0,
+      "d": 1
+    },
+    {
+      "id": "es-entretenimiento-006",
+      "p": "¿Qué estudio de animación creó Toy Story?",
+      "o": [
+        "DreamWorks",
+        "Pixar",
+        "Illumination",
+        "Blue Sky"
+      ],
+      "r": 1,
+      "d": 1
+    },
+    {
+      "id": "es-entretenimiento-007",
+      "p": "¿Qué película de Disney incluye \"No se habla de Bruno\"?",
+      "o": [
+        "Coco",
+        "Moana",
+        "Encanto",
+        "Frozen"
+      ],
+      "r": 2,
+      "d": 1
+    },
+    {
+      "id": "es-entretenimiento-008",
+      "p": "¿Qué banda británica cantó \"Hey Jude\"?",
+      "o": [
+        "The Rolling Stones",
+        "Queen",
+        "Pink Floyd",
+        "The Beatles"
+      ],
+      "r": 3,
+      "d": 1
+    },
+    {
+      "id": "es-entretenimiento-009",
+      "p": "¿Qué princesa de Disney tiene poderes de hielo?",
+      "o": [
+        "Elsa",
+        "Anna",
+        "Rapunzel",
+        "Ariel"
+      ],
+      "r": 0,
+      "d": 1
+    },
+    {
+      "id": "es-entretenimiento-010",
+      "p": "¿Quién escribió la saga de Harry Potter?",
+      "o": [
+        "Suzanne Collins",
+        "J. K. Rowling",
+        "Stephenie Meyer",
+        "Roald Dahl"
+      ],
+      "r": 1,
+      "d": 1
+    },
+    {
+      "id": "es-entretenimiento-011",
+      "p": "¿Qué telenovela colombiana tiene como protagonista a Beatriz Pinzón?",
+      "o": [
+        "Pedro el escamoso",
+        "La Costeña y el Cachaco",
+        "Yo soy Betty, la fea",
+        "Café con aroma de mujer"
+      ],
+      "r": 2,
+      "d": 1
+    },
+    {
+      "id": "es-entretenimiento-012",
+      "p": "¿Qué cantante puertorriqueño lanzó \"Despacito\" con Daddy Yankee?",
+      "o": [
+        "Ricky Martin",
+        "Marc Anthony",
+        "Don Omar",
+        "Luis Fonsi"
+      ],
+      "r": 3,
+      "d": 1
+    },
+    {
+      "id": "es-entretenimiento-013",
+      "p": "¿Qué videojuego de Mojang permite minar y construir con bloques?",
+      "o": [
+        "Minecraft",
+        "Fortnite",
+        "Roblox",
+        "Terraria"
+      ],
+      "r": 0,
+      "d": 1
+    },
+    {
+      "id": "es-entretenimiento-014",
+      "p": "¿Cómo se llama el mejor amigo de Bob Esponja?",
+      "o": [
+        "Calamardo Tentáculos",
+        "Patricio Estrella",
+        "Plankton",
+        "Arenita Mejillas"
+      ],
+      "r": 1,
+      "d": 1
+    },
+    {
+      "id": "es-entretenimiento-015",
+      "p": "¿Qué cantante colombiano es el autor de \"La camisa negra\"?",
+      "o": [
+        "Fonseca",
+        "Carlos Vives",
+        "Juanes",
+        "Maluma"
+      ],
+      "r": 2,
+      "d": 1
+    },
+    {
+      "id": "es-entretenimiento-016",
+      "p": "¿Qué película cuenta el romance de Jack y Rose en un barco?",
+      "o": [
+        "Poseidón",
+        "Aquaman",
+        "Waterworld",
+        "Titanic"
+      ],
+      "r": 3,
+      "d": 1
+    },
+    {
+      "id": "es-entretenimiento-017",
+      "p": "¿Qué empresa japonesa creó la consola PlayStation?",
+      "o": [
+        "Sony",
+        "Nintendo",
+        "Sega",
+        "Panasonic"
+      ],
+      "r": 0,
+      "d": 1
+    },
+    {
+      "id": "es-entretenimiento-018",
+      "p": "¿Cómo se llama el villano que traiciona a Mufasa en El Rey León?",
+      "o": [
+        "Jafar",
+        "Scar",
+        "Hades",
+        "Gastón"
+      ],
+      "r": 1,
+      "d": 1
+    },
+    {
+      "id": "es-entretenimiento-019",
+      "p": "¿Qué superhéroe de Marvel es en realidad Peter Parker?",
+      "o": [
+        "Hombre Hormiga",
+        "Capitán América",
+        "Hombre Araña",
+        "Doctor Strange"
+      ],
+      "r": 2,
+      "d": 1
+    },
+    {
+      "id": "es-entretenimiento-020",
+      "p": "¿Qué erizo azul veloz es mascota de Sega?",
+      "o": [
+        "Crash Bandicoot",
+        "Rayman",
+        "Spyro",
+        "Sonic"
+      ],
+      "r": 3,
+      "d": 1
+    },
+    {
+      "id": "es-entretenimiento-021",
+      "p": "¿Qué serie animada transcurre en la ciudad de Springfield?",
+      "o": [
+        "Los Simpson",
+        "Padre de familia",
+        "Los Picapiedra",
+        "Futurama"
+      ],
+      "r": 0,
+      "d": 1
+    },
+    {
+      "id": "es-entretenimiento-022",
+      "p": "¿Quién es conocida como la \"Reina del Pop\"?",
+      "o": [
+        "Britney Spears",
+        "Madonna",
+        "Beyoncé",
+        "Lady Gaga"
+      ],
+      "r": 1,
+      "d": 1
+    },
+    {
+      "id": "es-entretenimiento-023",
+      "p": "¿Quién dirigió la película Titanic de 1997?",
+      "o": [
+        "Steven Spielberg",
+        "Ridley Scott",
+        "James Cameron",
+        "Christopher Nolan"
+      ],
+      "r": 2,
+      "d": 2
+    },
+    {
+      "id": "es-entretenimiento-024",
+      "p": "¿Qué actor protagonizó Forrest Gump?",
+      "o": [
+        "Tom Cruise",
+        "Kevin Costner",
+        "Bill Murray",
+        "Tom Hanks"
+      ],
+      "r": 3,
+      "d": 2
+    },
+    {
+      "id": "es-entretenimiento-025",
+      "p": "¿Quién fue el cantante principal de la banda Queen?",
+      "o": [
+        "Freddie Mercury",
+        "Elton John",
+        "David Bowie",
+        "Robert Plant"
+      ],
+      "r": 0,
+      "d": 2
+    },
+    {
+      "id": "es-entretenimiento-026",
+      "p": "¿Qué escritor argentino publicó el cuento \"El Aleph\"?",
+      "o": [
+        "Julio Cortázar",
+        "Jorge Luis Borges",
+        "Ernesto Sabato",
+        "Bioy Casares"
+      ],
+      "r": 1,
+      "d": 2
+    },
+    {
+      "id": "es-entretenimiento-027",
+      "p": "¿Qué actriz interpretó a Rose en la película Titanic?",
+      "o": [
+        "Naomi Watts",
+        "Cate Blanchett",
+        "Kate Winslet",
+        "Nicole Kidman"
+      ],
+      "r": 2,
+      "d": 2
+    },
+    {
+      "id": "es-entretenimiento-028",
+      "p": "¿Qué festividad mexicana inspira la película Coco?",
+      "o": [
+        "Las Posadas",
+        "Cinco de Mayo",
+        "La Guelaguetza",
+        "Día de Muertos"
+      ],
+      "r": 3,
+      "d": 2
+    },
+    {
+      "id": "es-entretenimiento-029",
+      "p": "¿De qué país era la banda de rock Soda Stereo?",
+      "o": [
+        "Argentina",
+        "Chile",
+        "México",
+        "Uruguay"
+      ],
+      "r": 0,
+      "d": 2
+    },
+    {
+      "id": "es-entretenimiento-030",
+      "p": "¿Qué película de Pixar trata de un robot que limpia la Tierra?",
+      "o": [
+        "Up",
+        "WALL·E",
+        "Cars",
+        "Ratatouille"
+      ],
+      "r": 1,
+      "d": 2
+    },
+    {
+      "id": "es-entretenimiento-031",
+      "p": "¿Quién creó a Mickey Mouse?",
+      "o": [
+        "Max Fleischer",
+        "Chuck Jones",
+        "Walt Disney",
+        "Tex Avery"
+      ],
+      "r": 2,
+      "d": 2
+    },
+    {
+      "id": "es-entretenimiento-032",
+      "p": "¿Qué empresa creó la saga The Legend of Zelda?",
+      "o": [
+        "Sega",
+        "Capcom",
+        "Konami",
+        "Nintendo"
+      ],
+      "r": 3,
+      "d": 2
+    },
+    {
+      "id": "es-entretenimiento-033",
+      "p": "¿Cómo se llama la princesa a la que Mario rescata de Bowser?",
+      "o": [
+        "Peach",
+        "Daisy",
+        "Zelda",
+        "Rosalina"
+      ],
+      "r": 0,
+      "d": 2
+    },
+    {
+      "id": "es-entretenimiento-034",
+      "p": "¿Qué actor ganó un Óscar póstumo como el Joker en El caballero oscuro?",
+      "o": [
+        "Joaquin Phoenix",
+        "Heath Ledger",
+        "Jared Leto",
+        "Jack Nicholson"
+      ],
+      "r": 1,
+      "d": 2
+    },
+    {
+      "id": "es-entretenimiento-035",
+      "p": "¿Qué saga tiene como protagonista a Katniss Everdeen?",
+      "o": [
+        "Divergente",
+        "Crepúsculo",
+        "Los juegos del hambre",
+        "El corredor del laberinto"
+      ],
+      "r": 2,
+      "d": 2
+    },
+    {
+      "id": "es-entretenimiento-036",
+      "p": "¿Qué serie española de Netflix tiene al Profesor y máscaras de Dalí?",
+      "o": [
+        "Élite",
+        "Las chicas del cable",
+        "Velvet",
+        "La casa de papel"
+      ],
+      "r": 3,
+      "d": 2
+    },
+    {
+      "id": "es-entretenimiento-037",
+      "p": "¿Cómo se llama el pueblo ficticio de Cien años de soledad?",
+      "o": [
+        "Macondo",
+        "Comala",
+        "Santa María",
+        "Yoknapatawpha"
+      ],
+      "r": 0,
+      "d": 2
+    },
+    {
+      "id": "es-entretenimiento-038",
+      "p": "¿Qué cantante dominicano es autor de \"Bachata rosa\"?",
+      "o": [
+        "Romeo Santos",
+        "Juan Luis Guerra",
+        "Marc Anthony",
+        "Víctor Manuel"
+      ],
+      "r": 1,
+      "d": 2
+    },
+    {
+      "id": "es-entretenimiento-039",
+      "p": "¿Qué actor interpretó a Jack Sparrow en Piratas del Caribe?",
+      "o": [
+        "Orlando Bloom",
+        "Brad Pitt",
+        "Johnny Depp",
+        "Geoffrey Rush"
+      ],
+      "r": 2,
+      "d": 2
+    },
+    {
+      "id": "es-entretenimiento-040",
+      "p": "¿Quién dirigió Pulp Fiction?",
+      "o": [
+        "Martin Scorsese",
+        "Guy Ritchie",
+        "David Fincher",
+        "Quentin Tarantino"
+      ],
+      "r": 3,
+      "d": 2
+    },
+    {
+      "id": "es-entretenimiento-041",
+      "p": "¿Quién compuso la Novena Sinfonía con la \"Oda a la Alegría\"?",
+      "o": [
+        "Beethoven",
+        "Mozart",
+        "Bach",
+        "Schubert"
+      ],
+      "r": 0,
+      "d": 2
+    },
+    {
+      "id": "es-entretenimiento-042",
+      "p": "¿Quién dirigió la película El Padrino?",
+      "o": [
+        "Martin Scorsese",
+        "Francis Ford Coppola",
+        "Brian De Palma",
+        "Sidney Lumet"
+      ],
+      "r": 1,
+      "d": 2
+    },
+    {
+      "id": "es-entretenimiento-043",
+      "p": "¿Quién compuso la música original de Star Wars?",
+      "o": [
+        "Hans Zimmer",
+        "Ennio Morricone",
+        "John Williams",
+        "Howard Shore"
+      ],
+      "r": 2,
+      "d": 2
+    },
+    {
+      "id": "es-entretenimiento-044",
+      "p": "¿Quién es el joven Jedi que se convierte en Darth Vader?",
+      "o": [
+        "Luke Skywalker",
+        "Obi-Wan Kenobi",
+        "Han Solo",
+        "Anakin Skywalker"
+      ],
+      "r": 3,
+      "d": 2
+    },
+    {
+      "id": "es-entretenimiento-045",
+      "p": "¿En qué año ganó García Márquez el Nobel de Literatura?",
+      "o": [
+        "1982",
+        "1972",
+        "1990",
+        "1967"
+      ],
+      "r": 0,
+      "d": 3
+    },
+    {
+      "id": "es-entretenimiento-046",
+      "p": "¿Qué banda mexicana canta \"Eres\"?",
+      "o": [
+        "Maná",
+        "Café Tacvba",
+        "Molotov",
+        "Caifanes"
+      ],
+      "r": 1,
+      "d": 3
+    },
+    {
+      "id": "es-entretenimiento-047",
+      "p": "¿Quién compuso el vallenato \"La gota fría\"?",
+      "o": [
+        "Rafael Escalona",
+        "Leandro Díaz",
+        "Emiliano Zuleta",
+        "Diomedes Díaz"
+      ],
+      "r": 2,
+      "d": 3
+    },
+    {
+      "id": "es-entretenimiento-048",
+      "p": "¿Qué director mexicano hizo El laberinto del fauno?",
+      "o": [
+        "Alfonso Cuarón",
+        "Alejandro G. Iñárritu",
+        "Pedro Almodóvar",
+        "Guillermo del Toro"
+      ],
+      "r": 3,
+      "d": 3
+    },
+    {
+      "id": "es-entretenimiento-049",
+      "p": "¿Quién dirigió la película Cinema Paradiso?",
+      "o": [
+        "Federico Fellini",
+        "Sergio Leone",
+        "Giuseppe Tornatore",
+        "Bernardo Bertolucci"
+      ],
+      "r": 2,
+      "d": 3
+    },
+    {
+      "id": "es-entretenimiento-050",
+      "p": "¿Qué película de Cuarón es en blanco y negro y transcurre en Ciudad de México?",
+      "o": [
+        "Gravedad",
+        "Roma",
+        "Hijos de los hombres",
+        "Y tu mamá también"
+      ],
+      "r": 1,
+      "d": 3
+    },
+    {
+      "id": "es-entretenimiento-051",
+      "p": "¿Qué peruano ganó el Nobel de Literatura en 2010?",
+      "o": [
+        "César Vallejo",
+        "Ribeyro",
+        "Mario Vargas Llosa",
+        "Alfredo Bryce"
+      ],
+      "r": 2,
+      "d": 3
+    },
+    {
+      "id": "es-entretenimiento-052",
+      "p": "¿En qué año salió Super Mario Bros. en Japón?",
+      "o": [
+        "1981",
+        "1989",
+        "1992",
+        "1985"
+      ],
+      "r": 3,
+      "d": 3
+    },
+    {
+      "id": "es-entretenimiento-053",
+      "p": "¿En qué año se estrenó la primera película de Star Wars?",
+      "o": [
+        "1977",
+        "1975",
+        "1980",
+        "1983"
+      ],
+      "r": 0,
+      "d": 3
+    },
+    {
+      "id": "es-entretenimiento-054",
+      "p": "¿Qué película colombiana de Ciro Guerra fue nominada al Óscar en 2016?",
+      "o": [
+        "Pájaros de verano",
+        "El abrazo de la serpiente",
+        "La estrategia del caracol",
+        "Los colores de la montaña"
+      ],
+      "r": 1,
+      "d": 3
+    },
+    {
+      "id": "es-entretenimiento-055",
+      "p": "¿Qué escritora chilena publicó La casa de los espíritus?",
+      "o": [
+        "Gabriela Mistral",
+        "Laura Esquivel",
+        "Isabel Allende",
+        "Clarice Lispector"
+      ],
+      "r": 2,
+      "d": 3
+    }
+  ]
+}

@@ -1,0 +1,666 @@
+{
+"idioma": "es",
+"categoria": "cultura",
+"preguntas": [
+{
+"id": "es-cultura-001",
+"p": "¿Quién pintó la Mona Lisa?",
+"o": [
+"Leonardo da Vinci",
+"Miguel Ángel",
+"Rafael Sanzio",
+"Sandro Botticelli"
+],
+"r": 0,
+"d": 1
+},
+{
+"id": "es-cultura-002",
+"p": "¿Cuántas cuerdas tiene una guitarra clásica estándar?",
+"o": [
+"Cuatro",
+"Seis",
+"Cinco",
+"Siete"
+],
+"r": 1,
+"d": 1
+},
+{
+"id": "es-cultura-003",
+"p": "¿Cuántos colores tiene el arcoíris?",
+"o": [
+"Cinco",
+"Seis",
+"Siete",
+"Ocho"
+],
+"r": 2,
+"d": 1
+},
+{
+"id": "es-cultura-004",
+"p": "¿Quién escribió Don Quijote de la Mancha?",
+"o": [
+"Lope de Vega",
+"Francisco de Quevedo",
+"Calderón de la Barca",
+"Miguel de Cervantes"
+],
+"r": 3,
+"d": 1
+},
+{
+"id": "es-cultura-005",
+"p": "¿Cuántos jugadores de cada equipo hay en la cancha en un partido de fútbol?",
+"o": [
+"Once",
+"Nueve",
+"Diez",
+"Doce"
+],
+"r": 0,
+"d": 1
+},
+{
+"id": "es-cultura-006",
+"p": "¿Qué instrumento tiene teclas blancas y negras?",
+"o": [
+"Violín",
+"Piano",
+"Flauta",
+"Trompeta"
+],
+"r": 1,
+"d": 1
+},
+{
+"id": "es-cultura-007",
+"p": "¿Cuántos días tiene un año bisiesto?",
+"o": [
+"365",
+"364",
+"366",
+"367"
+],
+"r": 2,
+"d": 1
+},
+{
+"id": "es-cultura-008",
+"p": "¿Quién escribió Romeo y Julieta?",
+"o": [
+"Charles Dickens",
+"Oscar Wilde",
+"Lord Byron",
+"William Shakespeare"
+],
+"r": 3,
+"d": 1
+},
+{
+"id": "es-cultura-009",
+"p": "¿Qué color resulta de mezclar azul y amarillo?",
+"o": [
+"Verde",
+"Naranja",
+"Morado",
+"Marrón"
+],
+"r": 0,
+"d": 1
+},
+{
+"id": "es-cultura-010",
+"p": "¿Cómo se llama el ratón más famoso de Disney?",
+"o": [
+"Jerry",
+"Mickey Mouse",
+"Stuart Little",
+"Basil"
+],
+"r": 1,
+"d": 1
+},
+{
+"id": "es-cultura-011",
+"p": "¿En qué deporte se usa una raqueta y una pelota amarilla sobre una red?",
+"o": [
+"Críquet",
+"Golf",
+"Tenis",
+"Rugby"
+],
+"r": 2,
+"d": 1
+},
+{
+"id": "es-cultura-012",
+"p": "¿Qué personaje vive en una piña debajo del mar?",
+"o": [
+"Patricio Estrella",
+"Calamardo",
+"Arenita Mejillas",
+"Bob Esponja"
+],
+"r": 3,
+"d": 1
+},
+{
+"id": "es-cultura-013",
+"p": "¿Cuántos lados tiene un hexágono?",
+"o": [
+"Seis",
+"Cinco",
+"Siete",
+"Ocho"
+],
+"r": 0,
+"d": 1
+},
+{
+"id": "es-cultura-014",
+"p": "¿Cuántos meses del año tienen 31 días?",
+"o": [
+"Seis",
+"Siete",
+"Cinco",
+"Ocho"
+],
+"r": 1,
+"d": 1
+},
+{
+"id": "es-cultura-015",
+"p": "¿Qué fiesta se celebra el 31 de octubre en muchos países?",
+"o": [
+"Carnaval",
+"San Valentín",
+"Halloween",
+"Acción de Gracias"
+],
+"r": 2,
+"d": 1
+},
+{
+"id": "es-cultura-016",
+"p": "¿Cuántas notas musicales básicas hay en la escala?",
+"o": [
+"Cinco",
+"Seis",
+"Ocho",
+"Siete"
+],
+"r": 3,
+"d": 1
+},
+{
+"id": "es-cultura-017",
+"p": "¿Cómo se llama el famoso detective creado por Arthur Conan Doyle?",
+"o": [
+"Sherlock Holmes",
+"Hercule Poirot",
+"Auguste Dupin",
+"Philip Marlowe"
+],
+"r": 0,
+"d": 1
+},
+{
+"id": "es-cultura-018",
+"p": "¿Qué animal es el símbolo de la organización WWF?",
+"o": [
+"Tigre de Bengala",
+"Panda gigante",
+"Elefante africano",
+"Ballena azul"
+],
+"r": 1,
+"d": 1
+},
+{
+"id": "es-cultura-019",
+"p": "¿Quién es la autora de la saga de Harry Potter?",
+"o": [
+"Stephen King",
+"Roald Dahl",
+"J. K. Rowling",
+"Suzanne Collins"
+],
+"r": 2,
+"d": 1
+},
+{
+"id": "es-cultura-020",
+"p": "¿Cuántos aros tiene el símbolo de los Juegos Olímpicos?",
+"o": [
+"Cuatro",
+"Seis",
+"Siete",
+"Cinco"
+],
+"r": 3,
+"d": 1
+},
+{
+"id": "es-cultura-021",
+"p": "¿Cuál es la identidad secreta de Spider-Man?",
+"o": [
+"Peter Parker",
+"Bruce Wayne",
+"Clark Kent",
+"Tony Stark"
+],
+"r": 0,
+"d": 1
+},
+{
+"id": "es-cultura-022",
+"p": "¿Quién es el autor de El principito?",
+"o": [
+"Antoine de Saint-Exupéry",
+"Julio Verne",
+"Albert Camus",
+"Jean-Paul Sartre"
+],
+"r": 0,
+"d": 1
+},
+{
+"id": "es-cultura-023",
+"p": "¿Cuántas letras tiene el alfabeto español actual?",
+"o": [
+"28",
+"26",
+"27",
+"29"
+],
+"r": 2,
+"d": 2
+},
+{
+"id": "es-cultura-024",
+"p": "¿Quién compuso la Novena Sinfonía con la Oda a la alegría?",
+"o": [
+"Wolfgang A. Mozart",
+"Johann S. Bach",
+"Joseph Haydn",
+"Ludwig van Beethoven"
+],
+"r": 3,
+"d": 2
+},
+{
+"id": "es-cultura-025",
+"p": "¿Quién escribió La metamorfosis?",
+"o": [
+"Franz Kafka",
+"Albert Camus",
+"Thomas Mann",
+"Hermann Hesse"
+],
+"r": 0,
+"d": 2
+},
+{
+"id": "es-cultura-026",
+"p": "¿Qué pintor es autor de La noche estrellada?",
+"o": [
+"Claude Monet",
+"Vincent van Gogh",
+"Paul Cézanne",
+"Edvard Munch"
+],
+"r": 1,
+"d": 2
+},
+{
+"id": "es-cultura-027",
+"p": "¿Quién escribió la epopeya La Odisea?",
+"o": [
+"Virgilio",
+"Sófocles",
+"Homero",
+"Platón"
+],
+"r": 2,
+"d": 2
+},
+{
+"id": "es-cultura-028",
+"p": "¿Cómo se llama el arte japonés de plegar papel?",
+"o": [
+"Ikebana",
+"Haiku",
+"Sumi-e",
+"Origami"
+],
+"r": 3,
+"d": 2
+},
+{
+"id": "es-cultura-029",
+"p": "¿Qué baile español se acompaña con guitarra y palmas?",
+"o": [
+"Flamenco",
+"Tango",
+"Samba",
+"Cumbia"
+],
+"r": 0,
+"d": 2
+},
+{
+"id": "es-cultura-030",
+"p": "¿Quién pintó el Guernica?",
+"o": [
+"Salvador Dalí",
+"Pablo Picasso",
+"Joan Miró",
+"Francisco de Goya"
+],
+"r": 1,
+"d": 2
+},
+{
+"id": "es-cultura-031",
+"p": "¿Quién compuso Las cuatro estaciones?",
+"o": [
+"Johann S. Bach",
+"Georg F. Händel",
+"Antonio Vivaldi",
+"Giuseppe Verdi"
+],
+"r": 2,
+"d": 2
+},
+{
+"id": "es-cultura-032",
+"p": "¿En qué museo se exhibe la Mona Lisa?",
+"o": [
+"Museo del Prado",
+"Galería Uffizi",
+"Museo del Hermitage",
+"Museo del Louvre"
+],
+"r": 3,
+"d": 2
+},
+{
+"id": "es-cultura-033",
+"p": "¿Quién escribió El señor de los anillos?",
+"o": [
+"J. R. R. Tolkien",
+"C. S. Lewis",
+"George R. R. Martin",
+"Terry Pratchett"
+],
+"r": 0,
+"d": 2
+},
+{
+"id": "es-cultura-034",
+"p": "¿Cuántas cuerdas tiene un violín?",
+"o": [
+"Seis",
+"Cuatro",
+"Cinco",
+"Tres"
+],
+"r": 1,
+"d": 2
+},
+{
+"id": "es-cultura-035",
+"p": "¿Qué país celebra el Día de Muertos con altares y flores de cempasúchil?",
+"o": [
+"Perú",
+"Cuba",
+"México",
+"Guatemala"
+],
+"r": 2,
+"d": 2
+},
+{
+"id": "es-cultura-036",
+"p": "¿Qué es un haiku?",
+"o": [
+"Una danza tradicional china",
+"Un plato típico coreano",
+"Un instrumento de la India",
+"Un poema japonés breve"
+],
+"r": 3,
+"d": 2
+},
+{
+"id": "es-cultura-037",
+"p": "¿Quién escribió la novela Los miserables?",
+"o": [
+"Alexandre Dumas",
+"Gustave Flaubert",
+"Émile Zola",
+"Víctor Hugo"
+],
+"r": 3,
+"d": 2
+},
+{
+"id": "es-cultura-038",
+"p": "¿Quién esculpió el David de la Galería de la Academia de Florencia?",
+"o": [
+"Donatello",
+"Miguel Ángel",
+"Gian Lorenzo Bernini",
+"Auguste Rodin"
+],
+"r": 1,
+"d": 2
+},
+{
+"id": "es-cultura-039",
+"p": "¿Qué director dirigió Tiburón y E.T.?",
+"o": [
+"George Lucas",
+"Ridley Scott",
+"Steven Spielberg",
+"James Cameron"
+],
+"r": 2,
+"d": 2
+},
+{
+"id": "es-cultura-040",
+"p": "¿Qué instrumento de viento con bolsa de aire es típico de Escocia?",
+"o": [
+"El acordeón",
+"La zampoña",
+"El clarinete",
+"La gaita"
+],
+"r": 3,
+"d": 2
+},
+{
+"id": "es-cultura-041",
+"p": "¿Qué movimiento artístico es el de Salvador Dalí?",
+"o": [
+"Surrealismo",
+"Cubismo",
+"Impresionismo",
+"Dadaísmo"
+],
+"r": 0,
+"d": 2
+},
+{
+"id": "es-cultura-042",
+"p": "¿Quién escribió la novela Pedro Páramo?",
+"o": [
+"Octavio Paz",
+"Juan Rulfo",
+"Carlos Fuentes",
+"Mario Benedetti"
+],
+"r": 1,
+"d": 2
+},
+{
+"id": "es-cultura-043",
+"p": "¿Quién escribió la novela Rayuela?",
+"o": [
+"Jorge Luis Borges",
+"Ernesto Sabato",
+"Julio Cortázar",
+"Bioy Casares"
+],
+"r": 2,
+"d": 2
+},
+{
+"id": "es-cultura-044",
+"p": "¿Qué banda británica lanzó el álbum Abbey Road?",
+"o": [
+"The Rolling Stones",
+"Queen",
+"Pink Floyd",
+"The Beatles"
+],
+"r": 3,
+"d": 2
+},
+{
+"id": "es-cultura-045",
+"p": "¿Qué pintor realizó Las Meninas?",
+"o": [
+"Diego Velázquez",
+"Francisco de Goya",
+"El Greco",
+"Bartolomé Murillo"
+],
+"r": 0,
+"d": 3
+},
+{
+"id": "es-cultura-046",
+"p": "¿Quién escribió Crimen y castigo?",
+"o": [
+"León Tolstói",
+"Fiódor Dostoyevski",
+"Antón Chéjov",
+"Nikolái Gógol"
+],
+"r": 1,
+"d": 3
+},
+{
+"id": "es-cultura-047",
+"p": "¿Quién compuso la ópera La flauta mágica?",
+"o": [
+"Ludwig van Beethoven",
+"Joseph Haydn",
+"Wolfgang A. Mozart",
+"Franz Schubert"
+],
+"r": 2,
+"d": 3
+},
+{
+"id": "es-cultura-048",
+"p": "¿Qué arquitecto diseñó la Sagrada Familia de Barcelona?",
+"o": [
+"Le Corbusier",
+"Santiago Calatrava",
+"Frank Lloyd Wright",
+"Antoni Gaudí"
+],
+"r": 3,
+"d": 3
+},
+{
+"id": "es-cultura-049",
+"p": "¿Quién escribió la novela 1984?",
+"o": [
+"George Orwell",
+"Aldous Huxley",
+"Ray Bradbury",
+"H. G. Wells"
+],
+"r": 0,
+"d": 3
+},
+{
+"id": "es-cultura-050",
+"p": "¿Qué escritor argentino escribió el cuento El Aleph?",
+"o": [
+"Ernesto Sabato",
+"Jorge Luis Borges",
+"Manuel Puig",
+"Roberto Arlt"
+],
+"r": 1,
+"d": 3
+},
+{
+"id": "es-cultura-051",
+"p": "¿Quién escribió Veinte poemas de amor y una canción desesperada?",
+"o": [
+"Vicente Huidobro",
+"Gabriela Mistral",
+"Pablo Neruda",
+"Nicanor Parra"
+],
+"r": 2,
+"d": 3
+},
+{
+"id": "es-cultura-052",
+"p": "¿Quién dirigió la película Psicosis (1960)?",
+"o": [
+"Stanley Kubrick",
+"Orson Welles",
+"Billy Wilder",
+"Alfred Hitchcock"
+],
+"r": 3,
+"d": 3
+},
+{
+"id": "es-cultura-053",
+"p": "¿Qué pintora mexicana es famosa por sus autorretratos?",
+"o": [
+"Frida Kahlo",
+"Remedios Varo",
+"Tamara de Lempicka",
+"María Izquierdo"
+],
+"r": 0,
+"d": 3
+},
+{
+"id": "es-cultura-054",
+"p": "¿Qué escritor creó al capitán Ahab en Moby Dick?",
+"o": [
+"Mark Twain",
+"Herman Melville",
+"Jack London",
+"Edgar Allan Poe"
+],
+"r": 1,
+"d": 3
+},
+{
+"id": "es-cultura-055",
+"p": "¿De qué cuadro de Monet viene el nombre del Impresionismo?",
+"o": [
+"Los nenúfares",
+"La urraca",
+"Impresión, sol naciente",
+"Mujer con sombrilla"
+],
+"r": 2,
+"d": 3
+}
+]
+}

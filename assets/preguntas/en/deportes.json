@@ -1,0 +1,666 @@
+{
+ "idioma": "en",
+ "categoria": "deportes",
+ "preguntas": [
+  {
+   "id": "en-deportes-001",
+   "p": "How many players per team are on a basketball court?",
+   "o": [
+    "Five",
+    "Four",
+    "Six",
+    "Seven"
+   ],
+   "r": 0,
+   "d": 1
+  },
+  {
+   "id": "en-deportes-002",
+   "p": "How many holes are played in a standard round of golf?",
+   "o": [
+    "12",
+    "18",
+    "9",
+    "24"
+   ],
+   "r": 1,
+   "d": 1
+  },
+  {
+   "id": "en-deportes-003",
+   "p": "Wimbledon, a famous tennis tournament, is held in which country?",
+   "o": [
+    "United States",
+    "Australia",
+    "United Kingdom",
+    "France"
+   ],
+   "r": 2,
+   "d": 1
+  },
+  {
+   "id": "en-deportes-004",
+   "p": "Which sport does Serena Williams play?",
+   "o": [
+    "Golf",
+    "Badminton",
+    "Squash",
+    "Tennis"
+   ],
+   "r": 3,
+   "d": 1
+  },
+  {
+   "id": "en-deportes-005",
+   "p": "How many rings are on the Olympic flag?",
+   "o": [
+    "Five",
+    "Four",
+    "Six",
+    "Seven"
+   ],
+   "r": 0,
+   "d": 1
+  },
+  {
+   "id": "en-deportes-006",
+   "p": "How many pins are used in ten-pin bowling?",
+   "o": [
+    "Eight",
+    "Ten",
+    "Nine",
+    "Twelve"
+   ],
+   "r": 1,
+   "d": 1
+  },
+  {
+   "id": "en-deportes-007",
+   "p": "In baseball, how many strikes make a strikeout?",
+   "o": [
+    "Two",
+    "Four",
+    "Three",
+    "Five"
+   ],
+   "r": 2,
+   "d": 1
+  },
+  {
+   "id": "en-deportes-008",
+   "p": "Which sport is played with a shuttlecock?",
+   "o": [
+    "Squash",
+    "Tennis",
+    "Table tennis",
+    "Badminton"
+   ],
+   "r": 3,
+   "d": 1
+  },
+  {
+   "id": "en-deportes-009",
+   "p": "Sprinter Usain Bolt represents which country?",
+   "o": [
+    "Jamaica",
+    "Kenya",
+    "United States",
+    "Nigeria"
+   ],
+   "r": 0,
+   "d": 1
+  },
+  {
+   "id": "en-deportes-010",
+   "p": "Which trophy is awarded to the NHL champion?",
+   "o": [
+    "Davis Cup",
+    "Stanley Cup",
+    "Ryder Cup",
+    "Heisman Trophy"
+   ],
+   "r": 1,
+   "d": 1
+  },
+  {
+   "id": "en-deportes-011",
+   "p": "Michael Jordan won six NBA titles with which team?",
+   "o": [
+    "Boston Celtics",
+    "Los Angeles Lakers",
+    "Chicago Bulls",
+    "Detroit Pistons"
+   ],
+   "r": 2,
+   "d": 1
+  },
+  {
+   "id": "en-deportes-012",
+   "p": "How many points is a field goal worth in American football?",
+   "o": [
+    "Two",
+    "Six",
+    "Seven",
+    "Three"
+   ],
+   "r": 3,
+   "d": 1
+  },
+  {
+   "id": "en-deportes-013",
+   "p": "How long is a regulation soccer match, in minutes?",
+   "o": [
+    "90",
+    "80",
+    "100",
+    "120"
+   ],
+   "r": 0,
+   "d": 1
+  },
+  {
+   "id": "en-deportes-014",
+   "p": "The Masters at Augusta National is held in which sport?",
+   "o": [
+    "Tennis",
+    "Golf",
+    "Cricket",
+    "Polo"
+   ],
+   "r": 1,
+   "d": 1
+  },
+  {
+   "id": "en-deportes-015",
+   "p": "Lionel Messi was born in which country?",
+   "o": [
+    "Brazil",
+    "Spain",
+    "Argentina",
+    "Portugal"
+   ],
+   "r": 2,
+   "d": 1
+  },
+  {
+   "id": "en-deportes-016",
+   "p": "Including home plate, how many bases are in baseball?",
+   "o": [
+    "Three",
+    "Five",
+    "Six",
+    "Four"
+   ],
+   "r": 3,
+   "d": 1
+  },
+  {
+   "id": "en-deportes-017",
+   "p": "In which sport do players score by slam dunking?",
+   "o": [
+    "Basketball",
+    "Volleyball",
+    "Handball",
+    "Netball"
+   ],
+   "r": 0,
+   "d": 1
+  },
+  {
+   "id": "en-deportes-018",
+   "p": "The Super Bowl is the championship game of which sport?",
+   "o": [
+    "Baseball",
+    "American football",
+    "Ice hockey",
+    "Basketball"
+   ],
+   "r": 1,
+   "d": 1
+  },
+  {
+   "id": "en-deportes-019",
+   "p": "What color jersey does the Tour de France leader wear?",
+   "o": [
+    "Green",
+    "Red",
+    "Yellow",
+    "Blue"
+   ],
+   "r": 2,
+   "d": 1
+  },
+  {
+   "id": "en-deportes-020",
+   "p": "How often are the Summer Olympics held, in years?",
+   "o": [
+    "Two",
+    "Three",
+    "Five",
+    "Four"
+   ],
+   "r": 3,
+   "d": 1
+  },
+  {
+   "id": "en-deportes-021",
+   "p": "In tennis, what does the score \"love\" mean?",
+   "o": [
+    "Zero",
+    "One",
+    "Advantage",
+    "Tie"
+   ],
+   "r": 0,
+   "d": 1
+  },
+  {
+   "id": "en-deportes-022",
+   "p": "How many points is a basketball shot from beyond the arc?",
+   "o": [
+    "Two",
+    "Three",
+    "Four",
+    "Five"
+   ],
+   "r": 1,
+   "d": 1
+  },
+  {
+   "id": "en-deportes-023",
+   "p": "Which country won the first FIFA World Cup in 1930?",
+   "o": [
+    "Brazil",
+    "Argentina",
+    "Uruguay",
+    "Italy"
+   ],
+   "r": 2,
+   "d": 2
+  },
+  {
+   "id": "en-deportes-024",
+   "p": "Which city hosted the 2016 Summer Olympics?",
+   "o": [
+    "London",
+    "Beijing",
+    "Athens",
+    "Rio de Janeiro"
+   ],
+   "r": 3,
+   "d": 2
+  },
+  {
+   "id": "en-deportes-025",
+   "p": "How many Grand Slam tennis tournaments are there each year?",
+   "o": [
+    "Four",
+    "Three",
+    "Five",
+    "Six"
+   ],
+   "r": 0,
+   "d": 2
+  },
+  {
+   "id": "en-deportes-026",
+   "p": "On which surface is the French Open played?",
+   "o": [
+    "Grass",
+    "Clay",
+    "Hard court",
+    "Carpet"
+   ],
+   "r": 1,
+   "d": 2
+  },
+  {
+   "id": "en-deportes-027",
+   "p": "How many players does a cricket team field at once?",
+   "o": [
+    "Nine",
+    "Ten",
+    "Eleven",
+    "Twelve"
+   ],
+   "r": 2,
+   "d": 2
+  },
+  {
+   "id": "en-deportes-028",
+   "p": "Which country won the men's World Cup in 1966?",
+   "o": [
+    "West Germany",
+    "Brazil",
+    "Italy",
+    "England"
+   ],
+   "r": 3,
+   "d": 2
+  },
+  {
+   "id": "en-deportes-029",
+   "p": "In golf, what is two strokes under par on a hole called?",
+   "o": [
+    "Eagle",
+    "Birdie",
+    "Albatross",
+    "Bogey"
+   ],
+   "r": 0,
+   "d": 2
+  },
+  {
+   "id": "en-deportes-030",
+   "p": "What is three strikes in a row called in bowling?",
+   "o": [
+    "Eagle",
+    "Turkey",
+    "Split",
+    "Ace"
+   ],
+   "r": 1,
+   "d": 2
+  },
+  {
+   "id": "en-deportes-031",
+   "p": "Which sport features a formation called a scrum?",
+   "o": [
+    "Cricket",
+    "Lacrosse",
+    "Rugby",
+    "Handball"
+   ],
+   "r": 2,
+   "d": 2
+  },
+  {
+   "id": "en-deportes-032",
+   "p": "Approximately how long is a marathon?",
+   "o": [
+    "24.8 miles",
+    "21.1 miles",
+    "30.0 miles",
+    "26.2 miles"
+   ],
+   "r": 3,
+   "d": 2
+  },
+  {
+   "id": "en-deportes-033",
+   "p": "What was Muhammad Ali's birth name?",
+   "o": [
+    "Cassius Clay",
+    "Clay Cassidy",
+    "Carl Clayton",
+    "Charles Clay"
+   ],
+   "r": 0,
+   "d": 2
+  },
+  {
+   "id": "en-deportes-034",
+   "p": "Which golf major is played in the United Kingdom?",
+   "o": [
+    "US Open",
+    "The Open Championship",
+    "PGA Championship",
+    "The Masters"
+   ],
+   "r": 1,
+   "d": 2
+  },
+  {
+   "id": "en-deportes-035",
+   "p": "Wayne Gretzky won four Stanley Cups with which team?",
+   "o": [
+    "Calgary Flames",
+    "Boston Bruins",
+    "Edmonton Oilers",
+    "Toronto Maple Leafs"
+   ],
+   "r": 2,
+   "d": 2
+  },
+  {
+   "id": "en-deportes-036",
+   "p": "Which country hosted the first modern Olympics in 1896?",
+   "o": [
+    "France",
+    "England",
+    "Italy",
+    "Greece"
+   ],
+   "r": 3,
+   "d": 2
+  },
+  {
+   "id": "en-deportes-037",
+   "p": "Which stadium was nicknamed The House That Ruth Built?",
+   "o": [
+    "Yankee Stadium",
+    "Fenway Park",
+    "Wrigley Field",
+    "Dodger Stadium"
+   ],
+   "r": 0,
+   "d": 2
+  },
+  {
+   "id": "en-deportes-038",
+   "p": "Which nation won the 1995 Rugby World Cup on home soil?",
+   "o": [
+    "New Zealand",
+    "South Africa",
+    "Australia",
+    "England"
+   ],
+   "r": 1,
+   "d": 2
+  },
+  {
+   "id": "en-deportes-039",
+   "p": "Which swimmer won 23 Olympic gold medals?",
+   "o": [
+    "Ryan Lochte",
+    "Mark Spitz",
+    "Michael Phelps",
+    "Ian Thorpe"
+   ],
+   "r": 2,
+   "d": 2
+  },
+  {
+   "id": "en-deportes-040",
+   "p": "The Ryder Cup is contested in which sport?",
+   "o": [
+    "Tennis",
+    "Cricket",
+    "Rowing",
+    "Golf"
+   ],
+   "r": 3,
+   "d": 2
+  },
+  {
+   "id": "en-deportes-041",
+   "p": "How many players per side are on the ice in hockey?",
+   "o": [
+    "Six",
+    "Five",
+    "Seven",
+    "Eight"
+   ],
+   "r": 0,
+   "d": 2
+  },
+  {
+   "id": "en-deportes-042",
+   "p": "Which player scored the 1986 World Cup \"Hand of God\" goal?",
+   "o": [
+    "Pelé",
+    "Diego Maradona",
+    "Zinedine Zidane",
+    "Johan Cruyff"
+   ],
+   "r": 1,
+   "d": 2
+  },
+  {
+   "id": "en-deportes-043",
+   "p": "Which country hosted the 1994 men's World Cup?",
+   "o": [
+    "Mexico",
+    "Italy",
+    "United States",
+    "France"
+   ],
+   "r": 2,
+   "d": 2
+  },
+  {
+   "id": "en-deportes-044",
+   "p": "Who broke baseball's color barrier in 1947?",
+   "o": [
+    "Hank Aaron",
+    "Willie Mays",
+    "Satchel Paige",
+    "Jackie Robinson"
+   ],
+   "r": 3,
+   "d": 2
+  },
+  {
+   "id": "en-deportes-045",
+   "p": "What is the maximum break in snooker without a free ball?",
+   "o": [
+    "147",
+    "155",
+    "140",
+    "150"
+   ],
+   "r": 0,
+   "d": 3
+  },
+  {
+   "id": "en-deportes-046",
+   "p": "Which boxer was nicknamed the Brown Bomber?",
+   "o": [
+    "Sugar Ray Robinson",
+    "Joe Louis",
+    "Rocky Marciano",
+    "Joe Frazier"
+   ],
+   "r": 1,
+   "d": 3
+  },
+  {
+   "id": "en-deportes-047",
+   "p": "Who scored the first perfect 10 in Olympic gymnastics?",
+   "o": [
+    "Olga Korbut",
+    "Mary Lou Retton",
+    "Nadia Comaneci",
+    "Simone Biles"
+   ],
+   "r": 2,
+   "d": 3
+  },
+  {
+   "id": "en-deportes-048",
+   "p": "At which Olympics did Jesse Owens win four golds?",
+   "o": [
+    "1932 Los Angeles",
+    "1948 London",
+    "1928 Amsterdam",
+    "1936 Berlin"
+   ],
+   "r": 3,
+   "d": 3
+  },
+  {
+   "id": "en-deportes-049",
+   "p": "Who ran the first sub-four-minute mile in 1954?",
+   "o": [
+    "Roger Bannister",
+    "Sebastian Coe",
+    "Steve Ovett",
+    "Jim Ryun"
+   ],
+   "r": 0,
+   "d": 3
+  },
+  {
+   "id": "en-deportes-050",
+   "p": "The Fosbury Flop is a technique in which event?",
+   "o": [
+    "Pole vault",
+    "High jump",
+    "Long jump",
+    "Hurdles"
+   ],
+   "r": 1,
+   "d": 3
+  },
+  {
+   "id": "en-deportes-051",
+   "p": "Which NHL franchise has won the most Stanley Cups?",
+   "o": [
+    "Toronto Maple Leafs",
+    "Detroit Red Wings",
+    "Montreal Canadiens",
+    "Boston Bruins"
+   ],
+   "r": 2,
+   "d": 3
+  },
+  {
+   "id": "en-deportes-052",
+   "p": "How many Grand Slam singles titles did Steffi Graf win?",
+   "o": [
+    "24",
+    "18",
+    "20",
+    "22"
+   ],
+   "r": 3,
+   "d": 3
+  },
+  {
+   "id": "en-deportes-053",
+   "p": "Which nation won the first Rugby World Cup in 1987?",
+   "o": [
+    "New Zealand",
+    "Australia",
+    "England",
+    "France"
+   ],
+   "r": 0,
+   "d": 3
+  },
+  {
+   "id": "en-deportes-054",
+   "p": "Which baseball star was nicknamed The Iron Horse?",
+   "o": [
+    "Babe Ruth",
+    "Lou Gehrig",
+    "Ty Cobb",
+    "Joe DiMaggio"
+   ],
+   "r": 1,
+   "d": 3
+  },
+  {
+   "id": "en-deportes-055",
+   "p": "Which team won the first two Super Bowls?",
+   "o": [
+    "Dallas Cowboys",
+    "Kansas City Chiefs",
+    "Green Bay Packers",
+    "New York Jets"
+   ],
+   "r": 2,
+   "d": 3
+  }
+ ]
+}

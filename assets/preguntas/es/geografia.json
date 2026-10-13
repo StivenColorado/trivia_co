@@ -1,0 +1,666 @@
+{
+"idioma": "es",
+"categoria": "geografia",
+"preguntas": [
+{
+"id": "es-geografia-001",
+"p": "¿Cuál es la capital de Francia?",
+"o": [
+"París",
+"Lyon",
+"Marsella",
+"Burdeos"
+],
+"r": 0,
+"d": 1
+},
+{
+"id": "es-geografia-002",
+"p": "¿Cuál es el océano más grande del planeta?",
+"o": [
+"Atlántico",
+"Pacífico",
+"Índico",
+"Ártico"
+],
+"r": 1,
+"d": 1
+},
+{
+"id": "es-geografia-003",
+"p": "¿Cuál es la capital de Venezuela?",
+"o": [
+"Maracaibo",
+"Valencia",
+"Caracas",
+"Barquisimeto"
+],
+"r": 2,
+"d": 1
+},
+{
+"id": "es-geografia-004",
+"p": "¿En qué continente está Egipto?",
+"o": [
+"Asia",
+"Europa",
+"Oceanía",
+"África"
+],
+"r": 3,
+"d": 1
+},
+{
+"id": "es-geografia-005",
+"p": "¿Cuál es la capital de Argentina?",
+"o": [
+"Buenos Aires",
+"Rosario",
+"Córdoba",
+"Mendoza"
+],
+"r": 0,
+"d": 1
+},
+{
+"id": "es-geografia-006",
+"p": "¿Cuál es el río más caudaloso del mundo?",
+"o": [
+"Nilo",
+"Amazonas",
+"Misisipi",
+"Orinoco"
+],
+"r": 1,
+"d": 1
+},
+{
+"id": "es-geografia-007",
+"p": "¿Cuál es el país más extenso del mundo?",
+"o": [
+"Canadá",
+"China",
+"Rusia",
+"Estados Unidos"
+],
+"r": 2,
+"d": 1
+},
+{
+"id": "es-geografia-008",
+"p": "¿Cuál es la capital de España?",
+"o": [
+"Barcelona",
+"Sevilla",
+"Valencia",
+"Madrid"
+],
+"r": 3,
+"d": 1
+},
+{
+"id": "es-geografia-009",
+"p": "¿Cómo se llama la gran cordillera que recorre Sudamérica?",
+"o": [
+"Los Andes",
+"Los Alpes",
+"El Himalaya",
+"Las Rocosas"
+],
+"r": 0,
+"d": 1
+},
+{
+"id": "es-geografia-010",
+"p": "¿Cuál es la capital de México?",
+"o": [
+"Guadalajara",
+"Ciudad de México",
+"Monterrey",
+"Puebla"
+],
+"r": 1,
+"d": 1
+},
+{
+"id": "es-geografia-011",
+"p": "¿En qué país se encuentra Machu Picchu?",
+"o": [
+"Bolivia",
+"Ecuador",
+"Perú",
+"Chile"
+],
+"r": 2,
+"d": 1
+},
+{
+"id": "es-geografia-012",
+"p": "¿Cuál es la capital de Italia?",
+"o": [
+"Milán",
+"Venecia",
+"Nápoles",
+"Roma"
+],
+"r": 3,
+"d": 1
+},
+{
+"id": "es-geografia-013",
+"p": "¿Qué país europeo tiene forma de bota?",
+"o": [
+"Italia",
+"Grecia",
+"Portugal",
+"Croacia"
+],
+"r": 0,
+"d": 1
+},
+{
+"id": "es-geografia-014",
+"p": "¿Cuál es el desierto cálido más grande del mundo?",
+"o": [
+"Gobi",
+"Sahara",
+"Kalahari",
+"Atacama"
+],
+"r": 1,
+"d": 1
+},
+{
+"id": "es-geografia-015",
+"p": "¿Cuál es la capital de Chile?",
+"o": [
+"Valparaíso",
+"Concepción",
+"Santiago",
+"Antofagasta"
+],
+"r": 2,
+"d": 1
+},
+{
+"id": "es-geografia-016",
+"p": "¿Qué idioma se habla oficialmente en Brasil?",
+"o": [
+"Español",
+"Inglés",
+"Francés",
+"Portugués"
+],
+"r": 3,
+"d": 1
+},
+{
+"id": "es-geografia-017",
+"p": "¿En qué continente está Japón?",
+"o": [
+"África",
+"Asia",
+"Europa",
+"Oceanía"
+],
+"r": 1,
+"d": 1
+},
+{
+"id": "es-geografia-018",
+"p": "¿Cuál es la capital de Japón?",
+"o": [
+"Kioto",
+"Tokio",
+"Osaka",
+"Seúl"
+],
+"r": 1,
+"d": 1
+},
+{
+"id": "es-geografia-019",
+"p": "¿Qué dos océanos une el Canal de Panamá?",
+"o": [
+"Pacífico e Índico",
+"Atlántico e Índico",
+"Atlántico y Pacífico",
+"Ártico y Atlántico"
+],
+"r": 2,
+"d": 1
+},
+{
+"id": "es-geografia-020",
+"p": "¿Cuál es la montaña más alta del mundo sobre el nivel del mar?",
+"o": [
+"K2",
+"Kilimanjaro",
+"Aconcagua",
+"Monte Everest"
+],
+"r": 3,
+"d": 1
+},
+{
+"id": "es-geografia-021",
+"p": "¿Cuál es la capital del Reino Unido?",
+"o": [
+"Londres",
+"Mánchester",
+"Edimburgo",
+"Liverpool"
+],
+"r": 0,
+"d": 1
+},
+{
+"id": "es-geografia-022",
+"p": "¿Cuál es la capital de Cuba?",
+"o": [
+"Santiago de Cuba",
+"La Habana",
+"Varadero",
+"Matanzas"
+],
+"r": 1,
+"d": 1
+},
+{
+"id": "es-geografia-023",
+"p": "¿Cuál es la capital de Brasil?",
+"o": [
+"Río de Janeiro",
+"São Paulo",
+"Brasilia",
+"Salvador"
+],
+"r": 2,
+"d": 2
+},
+{
+"id": "es-geografia-024",
+"p": "¿Cuál es la capital de Australia?",
+"o": [
+"Sídney",
+"Melbourne",
+"Perth",
+"Canberra"
+],
+"r": 3,
+"d": 2
+},
+{
+"id": "es-geografia-025",
+"p": "¿Cuál es la capital de Canadá?",
+"o": [
+"Ottawa",
+"Toronto",
+"Montreal",
+"Vancouver"
+],
+"r": 0,
+"d": 2
+},
+{
+"id": "es-geografia-026",
+"p": "¿Qué lago comparten Perú y Bolivia?",
+"o": [
+"Maracaibo",
+"Titicaca",
+"Nicaragua",
+"Poopó"
+],
+"r": 1,
+"d": 2
+},
+{
+"id": "es-geografia-027",
+"p": "¿Qué río atraviesa Egipto de sur a norte?",
+"o": [
+"Níger",
+"Congo",
+"Nilo",
+"Zambeze"
+],
+"r": 2,
+"d": 2
+},
+{
+"id": "es-geografia-028",
+"p": "¿Cuál es el país más poblado de Sudamérica?",
+"o": [
+"Argentina",
+"Colombia",
+"Perú",
+"Brasil"
+],
+"r": 3,
+"d": 2
+},
+{
+"id": "es-geografia-029",
+"p": "¿Cuál es la capital de Uruguay?",
+"o": [
+"Montevideo",
+"Asunción",
+"Colonia",
+"Salto"
+],
+"r": 0,
+"d": 2
+},
+{
+"id": "es-geografia-030",
+"p": "¿Qué estrecho separa España de Marruecos?",
+"o": [
+"Bósforo",
+"Estrecho de Gibraltar",
+"Estrecho de Magallanes",
+"Estrecho de Mesina"
+],
+"r": 1,
+"d": 2
+},
+{
+"id": "es-geografia-031",
+"p": "¿Qué país tiene forma larga y angosta entre los Andes y el Pacífico?",
+"o": [
+"Ecuador",
+"Perú",
+"Chile",
+"Bolivia"
+],
+"r": 2,
+"d": 2
+},
+{
+"id": "es-geografia-032",
+"p": "¿Cuál es la capital de Alemania?",
+"o": [
+"Múnich",
+"Hamburgo",
+"Fráncfort",
+"Berlín"
+],
+"r": 3,
+"d": 2
+},
+{
+"id": "es-geografia-033",
+"p": "¿Cuál es la capital de Turquía?",
+"o": [
+"Ankara",
+"Estambul",
+"Esmirna",
+"Antalya"
+],
+"r": 0,
+"d": 2
+},
+{
+"id": "es-geografia-034",
+"p": "¿Cuál es la isla más grande del mundo, sin contar continentes?",
+"o": [
+"Madagascar",
+"Groenlandia",
+"Borneo",
+"Nueva Guinea"
+],
+"r": 1,
+"d": 2
+},
+{
+"id": "es-geografia-035",
+"p": "¿Cuál es la capital de Egipto?",
+"o": [
+"Alejandría",
+"Luxor",
+"El Cairo",
+"Guiza"
+],
+"r": 2,
+"d": 2
+},
+{
+"id": "es-geografia-036",
+"p": "¿Qué cataratas están en la frontera entre Argentina y Brasil?",
+"o": [
+"Cataratas Victoria",
+"Cataratas del Niágara",
+"Salto Ángel",
+"Cataratas del Iguazú"
+],
+"r": 3,
+"d": 2
+},
+{
+"id": "es-geografia-037",
+"p": "¿Cuál es la capital de Portugal?",
+"o": [
+"Lisboa",
+"Oporto",
+"Coímbra",
+"Faro"
+],
+"r": 0,
+"d": 2
+},
+{
+"id": "es-geografia-038",
+"p": "¿Qué mar separa Europa de África?",
+"o": [
+"Mar Báltico",
+"Mar Mediterráneo",
+"Mar Caribe",
+"Mar Negro"
+],
+"r": 1,
+"d": 2
+},
+{
+"id": "es-geografia-039",
+"p": "¿Cuál es el país más pequeño del mundo?",
+"o": [
+"Mónaco",
+"San Marino",
+"Ciudad del Vaticano",
+"Liechtenstein"
+],
+"r": 2,
+"d": 2
+},
+{
+"id": "es-geografia-040",
+"p": "¿Cuál es la capital de Ecuador?",
+"o": [
+"Guayaquil",
+"Cuenca",
+"Ambato",
+"Quito"
+],
+"r": 3,
+"d": 2
+},
+{
+"id": "es-geografia-041",
+"p": "¿Cuál es la capital de Paraguay?",
+"o": [
+"Asunción",
+"Encarnación",
+"Luque",
+"Villarrica"
+],
+"r": 0,
+"d": 2
+},
+{
+"id": "es-geografia-042",
+"p": "¿En qué país está el desierto de Atacama?",
+"o": [
+"México",
+"Chile",
+"Namibia",
+"Mongolia"
+],
+"r": 1,
+"d": 2
+},
+{
+"id": "es-geografia-043",
+"p": "¿Cuál es el continente más extenso?",
+"o": [
+"África",
+"América",
+"Asia",
+"Europa"
+],
+"r": 2,
+"d": 2
+},
+{
+"id": "es-geografia-044",
+"p": "¿Cuál es la capital de Grecia?",
+"o": [
+"Salónica",
+"Esparta",
+"Corinto",
+"Atenas"
+],
+"r": 3,
+"d": 2
+},
+{
+"id": "es-geografia-045",
+"p": "¿Cuál es la capital de Nueva Zelanda?",
+"o": [
+"Wellington",
+"Auckland",
+"Christchurch",
+"Queenstown"
+],
+"r": 0,
+"d": 3
+},
+{
+"id": "es-geografia-046",
+"p": "¿Cuál es la capital de Nigeria?",
+"o": [
+"Lagos",
+"Abuya",
+"Kano",
+"Ibadán"
+],
+"r": 1,
+"d": 3
+},
+{
+"id": "es-geografia-047",
+"p": "¿Cuál es el río más largo de Europa?",
+"o": [
+"Danubio",
+"Rin",
+"Volga",
+"Dniéper"
+],
+"r": 2,
+"d": 3
+},
+{
+"id": "es-geografia-048",
+"p": "¿Qué lugar es el punto más bajo de la superficie terrestre emergida?",
+"o": [
+"Valle de la Muerte",
+"Lago Eyre",
+"Depresión de Qattara",
+"Orilla del Mar Muerto"
+],
+"r": 3,
+"d": 3
+},
+{
+"id": "es-geografia-049",
+"p": "¿Cuál es la capital de Mongolia?",
+"o": [
+"Ulán Bator",
+"Biskek",
+"Taskent",
+"Pionyang"
+],
+"r": 0,
+"d": 3
+},
+{
+"id": "es-geografia-050",
+"p": "¿Qué paso marítimo separa Sudamérica de la Antártida?",
+"o": [
+"Estrecho de Bering",
+"Pasaje de Drake",
+"Canal de Beagle",
+"Estrecho de Cook"
+],
+"r": 1,
+"d": 3
+},
+{
+"id": "es-geografia-051",
+"p": "¿Cuál es la capital de Marruecos?",
+"o": [
+"Casablanca",
+"Marrakech",
+"Rabat",
+"Fez"
+],
+"r": 2,
+"d": 3
+},
+{
+"id": "es-geografia-052",
+"p": "¿Cuál es la capital de Suiza?",
+"o": [
+"Zúrich",
+"Ginebra",
+"Basilea",
+"Berna"
+],
+"r": 3,
+"d": 3
+},
+{
+"id": "es-geografia-053",
+"p": "¿Cuál es el lago más grande de África?",
+"o": [
+"Lago Victoria",
+"Lago Tanganica",
+"Lago Malaui",
+"Lago Chad"
+],
+"r": 0,
+"d": 3
+},
+{
+"id": "es-geografia-054",
+"p": "¿Cuál es la capital de Vietnam?",
+"o": [
+"Ho Chi Minh",
+"Hanói",
+"Da Nang",
+"Hue"
+],
+"r": 1,
+"d": 3
+},
+{
+"id": "es-geografia-055",
+"p": "¿Cuál es el país más extenso de África?",
+"o": [
+"Libia",
+"Sudán",
+"Argelia",
+"Rep. Dem. del Congo"
+],
+"r": 2,
+"d": 3
+}
+]
+}

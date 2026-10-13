@@ -1,0 +1,666 @@
+{
+"idioma": "en",
+"categoria": "geografia",
+"preguntas": [
+{
+"id": "en-geografia-001",
+"p": "What is the capital of France?",
+"o": [
+"Paris",
+"Lyon",
+"Marseille",
+"Brussels"
+],
+"r": 0,
+"d": 1
+},
+{
+"id": "en-geografia-002",
+"p": "Which is the largest ocean on Earth?",
+"o": [
+"Atlantic Ocean",
+"Pacific Ocean",
+"Indian Ocean",
+"Arctic Ocean"
+],
+"r": 1,
+"d": 1
+},
+{
+"id": "en-geografia-003",
+"p": "On which continent is Egypt located?",
+"o": [
+"Asia",
+"Europe",
+"Africa",
+"Oceania"
+],
+"r": 2,
+"d": 1
+},
+{
+"id": "en-geografia-004",
+"p": "What is the capital of Japan?",
+"o": [
+"Kyoto",
+"Osaka",
+"Seoul",
+"Tokyo"
+],
+"r": 3,
+"d": 1
+},
+{
+"id": "en-geografia-005",
+"p": "What is the capital of Canada?",
+"o": [
+"Ottawa",
+"Toronto",
+"Montreal",
+"Vancouver"
+],
+"r": 0,
+"d": 1
+},
+{
+"id": "en-geografia-006",
+"p": "What is the capital of Australia?",
+"o": [
+"Sydney",
+"Canberra",
+"Melbourne",
+"Perth"
+],
+"r": 1,
+"d": 1
+},
+{
+"id": "en-geografia-007",
+"p": "Which is the largest hot desert in the world?",
+"o": [
+"Gobi",
+"Kalahari",
+"Sahara",
+"Arabian"
+],
+"r": 2,
+"d": 1
+},
+{
+"id": "en-geografia-008",
+"p": "What is the capital of Italy?",
+"o": [
+"Milan",
+"Naples",
+"Venice",
+"Rome"
+],
+"r": 3,
+"d": 1
+},
+{
+"id": "en-geografia-009",
+"p": "Which country is home to the Great Wall?",
+"o": [
+"China",
+"Japan",
+"Mongolia",
+"India"
+],
+"r": 0,
+"d": 1
+},
+{
+"id": "en-geografia-010",
+"p": "Mount Everest is part of which mountain range?",
+"o": [
+"Andes",
+"Himalayas",
+"Alps",
+"Rockies"
+],
+"r": 1,
+"d": 1
+},
+{
+"id": "en-geografia-011",
+"p": "What is the capital of Spain?",
+"o": [
+"Barcelona",
+"Seville",
+"Madrid",
+"Lisbon"
+],
+"r": 2,
+"d": 1
+},
+{
+"id": "en-geografia-012",
+"p": "What is the capital of Egypt?",
+"o": [
+"Alexandria",
+"Giza",
+"Luxor",
+"Cairo"
+],
+"r": 3,
+"d": 1
+},
+{
+"id": "en-geografia-013",
+"p": "Which European country is shaped like a boot?",
+"o": [
+"Italy",
+"Greece",
+"Portugal",
+"Spain"
+],
+"r": 0,
+"d": 1
+},
+{
+"id": "en-geografia-014",
+"p": "In which US state is the Grand Canyon?",
+"o": [
+"Nevada",
+"Arizona",
+"Utah",
+"Colorado"
+],
+"r": 1,
+"d": 1
+},
+{
+"id": "en-geografia-015",
+"p": "What is the capital of the United Kingdom?",
+"o": [
+"Manchester",
+"Edinburgh",
+"London",
+"Cardiff"
+],
+"r": 2,
+"d": 1
+},
+{
+"id": "en-geografia-016",
+"p": "What is the capital of Germany?",
+"o": [
+"Munich",
+"Hamburg",
+"Vienna",
+"Berlin"
+],
+"r": 3,
+"d": 1
+},
+{
+"id": "en-geografia-017",
+"p": "Which country has the largest land area?",
+"o": [
+"Russia",
+"Canada",
+"China",
+"United States"
+],
+"r": 0,
+"d": 1
+},
+{
+"id": "en-geografia-018",
+"p": "Which ocean lies to the east of Africa?",
+"o": [
+"Atlantic Ocean",
+"Indian Ocean",
+"Pacific Ocean",
+"Arctic Ocean"
+],
+"r": 1,
+"d": 1
+},
+{
+"id": "en-geografia-019",
+"p": "What is the capital of Brazil?",
+"o": [
+"Rio de Janeiro",
+"São Paulo",
+"Brasília",
+"Salvador"
+],
+"r": 2,
+"d": 1
+},
+{
+"id": "en-geografia-020",
+"p": "What is the capital of Mexico?",
+"o": [
+"Guadalajara",
+"Monterrey",
+"Cancún",
+"Mexico City"
+],
+"r": 3,
+"d": 1
+},
+{
+"id": "en-geografia-021",
+"p": "Which is the smallest continent by area?",
+"o": [
+"Australia",
+"Europe",
+"Antarctica",
+"South America"
+],
+"r": 0,
+"d": 1
+},
+{
+"id": "en-geografia-022",
+"p": "Which river is the longest in Africa?",
+"o": [
+"Congo",
+"Nile",
+"Niger",
+"Zambezi"
+],
+"r": 1,
+"d": 1
+},
+{
+"id": "en-geografia-023",
+"p": "What is the capital of Turkey?",
+"o": [
+"Istanbul",
+"Izmir",
+"Ankara",
+"Antalya"
+],
+"r": 2,
+"d": 2
+},
+{
+"id": "en-geografia-024",
+"p": "What is the capital of New Zealand?",
+"o": [
+"Auckland",
+"Christchurch",
+"Hamilton",
+"Wellington"
+],
+"r": 3,
+"d": 2
+},
+{
+"id": "en-geografia-025",
+"p": "Which river flows through Paris?",
+"o": [
+"Seine",
+"Loire",
+"Rhône",
+"Thames"
+],
+"r": 0,
+"d": 2
+},
+{
+"id": "en-geografia-026",
+"p": "Which river flows through London?",
+"o": [
+"Severn",
+"Thames",
+"Trent",
+"Mersey"
+],
+"r": 1,
+"d": 2
+},
+{
+"id": "en-geografia-027",
+"p": "In which country is the city of Marrakesh?",
+"o": [
+"Tunisia",
+"Algeria",
+"Morocco",
+"Egypt"
+],
+"r": 2,
+"d": 2
+},
+{
+"id": "en-geografia-028",
+"p": "Which is the largest of the Great Lakes by area?",
+"o": [
+"Lake Huron",
+"Lake Erie",
+"Lake Michigan",
+"Lake Superior"
+],
+"r": 3,
+"d": 2
+},
+{
+"id": "en-geografia-029",
+"p": "Which strait separates Spain from Morocco?",
+"o": [
+"Strait of Gibraltar",
+"Bosphorus",
+"Strait of Hormuz",
+"Bering Strait"
+],
+"r": 0,
+"d": 2
+},
+{
+"id": "en-geografia-030",
+"p": "What is the capital of Argentina?",
+"o": [
+"Santiago",
+"Buenos Aires",
+"Montevideo",
+"Lima"
+],
+"r": 1,
+"d": 2
+},
+{
+"id": "en-geografia-031",
+"p": "What is the capital of Kenya?",
+"o": [
+"Mombasa",
+"Kampala",
+"Nairobi",
+"Addis Ababa"
+],
+"r": 2,
+"d": 2
+},
+{
+"id": "en-geografia-032",
+"p": "In which country is Mount Kilimanjaro?",
+"o": [
+"Kenya",
+"Uganda",
+"Ethiopia",
+"Tanzania"
+],
+"r": 3,
+"d": 2
+},
+{
+"id": "en-geografia-033",
+"p": "What is the capital of Sweden?",
+"o": [
+"Stockholm",
+"Oslo",
+"Helsinki",
+"Copenhagen"
+],
+"r": 0,
+"d": 2
+},
+{
+"id": "en-geografia-034",
+"p": "Which sea lies between Europe and North Africa?",
+"o": [
+"Baltic Sea",
+"Mediterranean Sea",
+"Black Sea",
+"Red Sea"
+],
+"r": 1,
+"d": 2
+},
+{
+"id": "en-geografia-035",
+"p": "What is the capital of Thailand?",
+"o": [
+"Hanoi",
+"Manila",
+"Bangkok",
+"Jakarta"
+],
+"r": 2,
+"d": 2
+},
+{
+"id": "en-geografia-036",
+"p": "Which US state is the largest by area?",
+"o": [
+"Texas",
+"California",
+"Montana",
+"Alaska"
+],
+"r": 3,
+"d": 2
+},
+{
+"id": "en-geografia-037",
+"p": "What is the capital of South Korea?",
+"o": [
+"Seoul",
+"Busan",
+"Pyongyang",
+"Incheon"
+],
+"r": 0,
+"d": 2
+},
+{
+"id": "en-geografia-038",
+"p": "Reykjavik is the capital of which country?",
+"o": [
+"Ireland",
+"Iceland",
+"Greenland",
+"Norway"
+],
+"r": 1,
+"d": 2
+},
+{
+"id": "en-geografia-039",
+"p": "In which country is most of the Amazon rainforest?",
+"o": [
+"Peru",
+"Colombia",
+"Brazil",
+"Venezuela"
+],
+"r": 2,
+"d": 2
+},
+{
+"id": "en-geografia-040",
+"p": "In which country is Machu Picchu located?",
+"o": [
+"Bolivia",
+"Ecuador",
+"Chile",
+"Peru"
+],
+"r": 3,
+"d": 2
+},
+{
+"id": "en-geografia-041",
+"p": "What is the capital of Portugal?",
+"o": [
+"Lisbon",
+"Porto",
+"Madrid",
+"Faro"
+],
+"r": 0,
+"d": 2
+},
+{
+"id": "en-geografia-042",
+"p": "What is the capital of Peru?",
+"o": [
+"Cusco",
+"Lima",
+"Quito",
+"Bogotá"
+],
+"r": 1,
+"d": 2
+},
+{
+"id": "en-geografia-043",
+"p": "In which country is the ancient city of Petra?",
+"o": [
+"Egypt",
+"Syria",
+"Jordan",
+"Iraq"
+],
+"r": 2,
+"d": 2
+},
+{
+"id": "en-geografia-044",
+"p": "Which mountain range separates Europe from Asia?",
+"o": [
+"Alps",
+"Carpathians",
+"Pyrenees",
+"Ural Mountains"
+],
+"r": 3,
+"d": 2
+},
+{
+"id": "en-geografia-045",
+"p": "What is the capital of Kazakhstan?",
+"o": [
+"Astana",
+"Almaty",
+"Tashkent",
+"Bishkek"
+],
+"r": 0,
+"d": 3
+},
+{
+"id": "en-geografia-046",
+"p": "What is the capital of Myanmar?",
+"o": [
+"Yangon",
+"Naypyidaw",
+"Mandalay",
+"Bangkok"
+],
+"r": 1,
+"d": 3
+},
+{
+"id": "en-geografia-047",
+"p": "What is the capital of Nigeria?",
+"o": [
+"Lagos",
+"Kano",
+"Abuja",
+"Accra"
+],
+"r": 2,
+"d": 3
+},
+{
+"id": "en-geografia-048",
+"p": "What is the capital of Switzerland?",
+"o": [
+"Zurich",
+"Geneva",
+"Basel",
+"Bern"
+],
+"r": 3,
+"d": 3
+},
+{
+"id": "en-geografia-049",
+"p": "Which lake is the deepest in the world?",
+"o": [
+"Lake Baikal",
+"Lake Tanganyika",
+"Caspian Sea",
+"Lake Superior"
+],
+"r": 0,
+"d": 3
+},
+{
+"id": "en-geografia-050",
+"p": "Which is the highest waterfall in the world?",
+"o": [
+"Victoria Falls",
+"Angel Falls",
+"Niagara Falls",
+"Iguazu Falls"
+],
+"r": 1,
+"d": 3
+},
+{
+"id": "en-geografia-051",
+"p": "Which strait separates Asia from North America?",
+"o": [
+"Strait of Magellan",
+"Davis Strait",
+"Bering Strait",
+"Hudson Strait"
+],
+"r": 2,
+"d": 3
+},
+{
+"id": "en-geografia-052",
+"p": "What is the capital of Morocco?",
+"o": [
+"Casablanca",
+"Marrakesh",
+"Fez",
+"Rabat"
+],
+"r": 3,
+"d": 3
+},
+{
+"id": "en-geografia-053",
+"p": "Which Australian state has Hobart as its capital?",
+"o": [
+"Tasmania",
+"Victoria",
+"Queensland",
+"Western Australia"
+],
+"r": 0,
+"d": 3
+},
+{
+"id": "en-geografia-054",
+"p": "Which is the longest river in Europe?",
+"o": [
+"Danube",
+"Volga",
+"Rhine",
+"Dnieper"
+],
+"r": 1,
+"d": 3
+},
+{
+"id": "en-geografia-055",
+"p": "In which country is the city of Timbuktu?",
+"o": [
+"Niger",
+"Chad",
+"Mali",
+"Senegal"
+],
+"r": 2,
+"d": 3
+}
+]
+}

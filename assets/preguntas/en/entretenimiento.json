@@ -1,0 +1,666 @@
+{
+ "idioma": "en",
+ "categoria": "entretenimiento",
+ "preguntas": [
+  {
+   "id": "en-entretenimiento-001",
+   "p": "Who wrote the Harry Potter novels?",
+   "o": [
+    "J.K. Rowling",
+    "Roald Dahl",
+    "C.S. Lewis",
+    "J.R.R. Tolkien"
+   ],
+   "r": 0,
+   "d": 1
+  },
+  {
+   "id": "en-entretenimiento-002",
+   "p": "Which film features a clownfish named Nemo?",
+   "o": [
+    "Shark Tale",
+    "Finding Nemo",
+    "The Little Mermaid",
+    "Moana"
+   ],
+   "r": 1,
+   "d": 1
+  },
+  {
+   "id": "en-entretenimiento-003",
+   "p": "Which band recorded the song \"Hey Jude\"?",
+   "o": [
+    "The Rolling Stones",
+    "Queen",
+    "The Beatles",
+    "The Who"
+   ],
+   "r": 2,
+   "d": 1
+  },
+  {
+   "id": "en-entretenimiento-004",
+   "p": "What is Mario's job in the Super Mario games?",
+   "o": [
+    "Painter",
+    "Electrician",
+    "Chef",
+    "Plumber"
+   ],
+   "r": 3,
+   "d": 1
+  },
+  {
+   "id": "en-entretenimiento-005",
+   "p": "Which singer is known as the King of Pop?",
+   "o": [
+    "Michael Jackson",
+    "Elvis Presley",
+    "Prince",
+    "Justin Timberlake"
+   ],
+   "r": 0,
+   "d": 1
+  },
+  {
+   "id": "en-entretenimiento-006",
+   "p": "What is Simba's father called in The Lion King?",
+   "o": [
+    "Scar",
+    "Mufasa",
+    "Rafiki",
+    "Timon"
+   ],
+   "r": 1,
+   "d": 1
+  },
+  {
+   "id": "en-entretenimiento-007",
+   "p": "Which cowboy doll stars in Toy Story?",
+   "o": [
+    "Buzz",
+    "Rex",
+    "Woody",
+    "Slinky"
+   ],
+   "r": 2,
+   "d": 1
+  },
+  {
+   "id": "en-entretenimiento-008",
+   "p": "Which actor first played Iron Man in the Marvel films?",
+   "o": [
+    "Chris Evans",
+    "Chris Hemsworth",
+    "Mark Ruffalo",
+    "Robert Downey Jr."
+   ],
+   "r": 3,
+   "d": 1
+  },
+  {
+   "id": "en-entretenimiento-009",
+   "p": "Which franchise features the creature Pikachu?",
+   "o": [
+    "Pokémon",
+    "Digimon",
+    "Yu-Gi-Oh!",
+    "Dragon Ball"
+   ],
+   "r": 0,
+   "d": 1
+  },
+  {
+   "id": "en-entretenimiento-010",
+   "p": "In which game do you mine and craft in a blocky world?",
+   "o": [
+    "Fortnite",
+    "Minecraft",
+    "Overwatch",
+    "Halo"
+   ],
+   "r": 1,
+   "d": 1
+  },
+  {
+   "id": "en-entretenimiento-011",
+   "p": "Which singer is nicknamed the Queen of Pop?",
+   "o": [
+    "Beyoncé",
+    "Adele",
+    "Madonna",
+    "Cher"
+   ],
+   "r": 2,
+   "d": 1
+  },
+  {
+   "id": "en-entretenimiento-012",
+   "p": "Which film is about a ship that hits an iceberg?",
+   "o": [
+    "Waterworld",
+    "Cast Away",
+    "The Abyss",
+    "Titanic"
+   ],
+   "r": 3,
+   "d": 1
+  },
+  {
+   "id": "en-entretenimiento-013",
+   "p": "Who is Sherlock Holmes's loyal friend and partner?",
+   "o": [
+    "Dr. Watson",
+    "Inspector Lestrade",
+    "Moriarty",
+    "Mycroft"
+   ],
+   "r": 0,
+   "d": 1
+  },
+  {
+   "id": "en-entretenimiento-014",
+   "p": "Which sitcom is set partly in a coffee shop called Central Perk?",
+   "o": [
+    "Seinfeld",
+    "Friends",
+    "Cheers",
+    "Frasier"
+   ],
+   "r": 1,
+   "d": 1
+  },
+  {
+   "id": "en-entretenimiento-015",
+   "p": "Which animated family lives in the town of Springfield?",
+   "o": [
+    "The Flintstones",
+    "The Jetsons",
+    "The Simpsons",
+    "The Griffins"
+   ],
+   "r": 2,
+   "d": 1
+  },
+  {
+   "id": "en-entretenimiento-016",
+   "p": "In which film franchise do you find the Jedi?",
+   "o": [
+    "Star Trek",
+    "Dune",
+    "Avatar",
+    "Star Wars"
+   ],
+   "r": 3,
+   "d": 1
+  },
+  {
+   "id": "en-entretenimiento-017",
+   "p": "Which Disney film features the song Let It Go?",
+   "o": [
+    "Frozen",
+    "Moana",
+    "Tangled",
+    "Brave"
+   ],
+   "r": 0,
+   "d": 1
+  },
+  {
+   "id": "en-entretenimiento-018",
+   "p": "Which character do you control in The Legend of Zelda?",
+   "o": [
+    "Ganon",
+    "Link",
+    "Mario",
+    "Kirby"
+   ],
+   "r": 1,
+   "d": 1
+  },
+  {
+   "id": "en-entretenimiento-019",
+   "p": "Which Disney princess has very long magical hair?",
+   "o": [
+    "Ariel",
+    "Belle",
+    "Rapunzel",
+    "Elsa"
+   ],
+   "r": 2,
+   "d": 1
+  },
+  {
+   "id": "en-entretenimiento-020",
+   "p": "Which cartoon character lives in a pineapple under the sea?",
+   "o": [
+    "Patrick Star",
+    "Squidward",
+    "Mr. Krabs",
+    "SpongeBob SquarePants"
+   ],
+   "r": 3,
+   "d": 1
+  },
+  {
+   "id": "en-entretenimiento-021",
+   "p": "In which fictional city does Batman live?",
+   "o": [
+    "Gotham City",
+    "Metropolis",
+    "Star City",
+    "Central City"
+   ],
+   "r": 0,
+   "d": 1
+  },
+  {
+   "id": "en-entretenimiento-022",
+   "p": "Which Dr. Seuss character tries to steal Christmas?",
+   "o": [
+    "The Lorax",
+    "The Grinch",
+    "Horton",
+    "Cat in the Hat"
+   ],
+   "r": 1,
+   "d": 1
+  },
+  {
+   "id": "en-entretenimiento-023",
+   "p": "Who directed the 1975 thriller Jaws?",
+   "o": [
+    "George Lucas",
+    "Martin Scorsese",
+    "Steven Spielberg",
+    "Ridley Scott"
+   ],
+   "r": 2,
+   "d": 2
+  },
+  {
+   "id": "en-entretenimiento-024",
+   "p": "Which author created the detective Hercule Poirot?",
+   "o": [
+    "Arthur Conan Doyle",
+    "Dorothy Sayers",
+    "Ian Fleming",
+    "Agatha Christie"
+   ],
+   "r": 3,
+   "d": 2
+  },
+  {
+   "id": "en-entretenimiento-025",
+   "p": "Which Pink Floyd album has a prism on its cover?",
+   "o": [
+    "The Dark Side of the Moon",
+    "Wish You Were Here",
+    "The Wall",
+    "Animals"
+   ],
+   "r": 0,
+   "d": 2
+  },
+  {
+   "id": "en-entretenimiento-026",
+   "p": "Who wrote the dystopian novel 1984?",
+   "o": [
+    "Aldous Huxley",
+    "George Orwell",
+    "Ray Bradbury",
+    "H.G. Wells"
+   ],
+   "r": 1,
+   "d": 2
+  },
+  {
+   "id": "en-entretenimiento-027",
+   "p": "Which TV series features the Iron Throne?",
+   "o": [
+    "The Witcher",
+    "Vikings",
+    "Game of Thrones",
+    "The Last Kingdom"
+   ],
+   "r": 2,
+   "d": 2
+  },
+  {
+   "id": "en-entretenimiento-028",
+   "p": "Who composed the Ninth Symphony with Ode to Joy?",
+   "o": [
+    "Wolfgang Mozart",
+    "Johann Sebastian Bach",
+    "Johannes Brahms",
+    "Ludwig van Beethoven"
+   ],
+   "r": 3,
+   "d": 2
+  },
+  {
+   "id": "en-entretenimiento-029",
+   "p": "Which company created Sonic the Hedgehog?",
+   "o": [
+    "Sega",
+    "Nintendo",
+    "Atari",
+    "Sony"
+   ],
+   "r": 0,
+   "d": 2
+  },
+  {
+   "id": "en-entretenimiento-030",
+   "p": "Who directed the 1994 film Pulp Fiction?",
+   "o": [
+    "Martin Scorsese",
+    "Quentin Tarantino",
+    "Stanley Kubrick",
+    "Spike Lee"
+   ],
+   "r": 1,
+   "d": 2
+  },
+  {
+   "id": "en-entretenimiento-031",
+   "p": "In The Matrix, which color pill does Neo take?",
+   "o": [
+    "Blue",
+    "Green",
+    "Red",
+    "Yellow"
+   ],
+   "r": 2,
+   "d": 2
+  },
+  {
+   "id": "en-entretenimiento-032",
+   "p": "Which British band recorded \"Wonderwall\"?",
+   "o": [
+    "Blur",
+    "Coldplay",
+    "Radiohead",
+    "Oasis"
+   ],
+   "r": 3,
+   "d": 2
+  },
+  {
+   "id": "en-entretenimiento-033",
+   "p": "Which animator co-created Mickey Mouse?",
+   "o": [
+    "Walt Disney",
+    "Walter Lantz",
+    "Max Fleischer",
+    "Chuck Jones"
+   ],
+   "r": 0,
+   "d": 2
+  },
+  {
+   "id": "en-entretenimiento-034",
+   "p": "Which sitcom is set at the Dunder Mifflin paper company?",
+   "o": [
+    "Parks and Recreation",
+    "The Office",
+    "Scrubs",
+    "Community"
+   ],
+   "r": 1,
+   "d": 2
+  },
+  {
+   "id": "en-entretenimiento-035",
+   "p": "Which series follows a chemistry teacher who makes drugs?",
+   "o": [
+    "Ozark",
+    "Narcos",
+    "Breaking Bad",
+    "Weeds"
+   ],
+   "r": 2,
+   "d": 2
+  },
+  {
+   "id": "en-entretenimiento-036",
+   "p": "Which singer-songwriter wrote \"Like a Rolling Stone\"?",
+   "o": [
+    "Bruce Springsteen",
+    "Neil Young",
+    "Leonard Cohen",
+    "Bob Dylan"
+   ],
+   "r": 3,
+   "d": 2
+  },
+  {
+   "id": "en-entretenimiento-037",
+   "p": "Which Nintendo console launched in 2006 with motion controls?",
+   "o": [
+    "Wii",
+    "GameCube",
+    "Switch",
+    "Wii U"
+   ],
+   "r": 0,
+   "d": 2
+  },
+  {
+   "id": "en-entretenimiento-038",
+   "p": "Who wrote the novel Pride and Prejudice?",
+   "o": [
+    "Charlotte Brontë",
+    "Jane Austen",
+    "Emily Brontë",
+    "Mary Shelley"
+   ],
+   "r": 1,
+   "d": 2
+  },
+  {
+   "id": "en-entretenimiento-039",
+   "p": "Which company created the arcade game Pac-Man?",
+   "o": [
+    "Sega",
+    "Atari",
+    "Namco",
+    "Capcom"
+   ],
+   "r": 2,
+   "d": 2
+  },
+  {
+   "id": "en-entretenimiento-040",
+   "p": "Who played Captain Jack Sparrow in Pirates of the Caribbean?",
+   "o": [
+    "Orlando Bloom",
+    "Brad Pitt",
+    "Tom Cruise",
+    "Johnny Depp"
+   ],
+   "r": 3,
+   "d": 2
+  },
+  {
+   "id": "en-entretenimiento-041",
+   "p": "Which band released the album Back in Black?",
+   "o": [
+    "AC/DC",
+    "Led Zeppelin",
+    "Metallica",
+    "Black Sabbath"
+   ],
+   "r": 0,
+   "d": 2
+  },
+  {
+   "id": "en-entretenimiento-042",
+   "p": "Whose alter ego is Peter Parker?",
+   "o": [
+    "Daredevil",
+    "Spider-Man",
+    "Ant-Man",
+    "Nightcrawler"
+   ],
+   "r": 1,
+   "d": 2
+  },
+  {
+   "id": "en-entretenimiento-043",
+   "p": "In which Pixar film does a rat dream of being a chef?",
+   "o": [
+    "Up",
+    "Brave",
+    "Ratatouille",
+    "Coco"
+   ],
+   "r": 2,
+   "d": 2
+  },
+  {
+   "id": "en-entretenimiento-044",
+   "p": "Who directed both Titanic and Avatar?",
+   "o": [
+    "Steven Spielberg",
+    "Christopher Nolan",
+    "Peter Jackson",
+    "James Cameron"
+   ],
+   "r": 3,
+   "d": 2
+  },
+  {
+   "id": "en-entretenimiento-045",
+   "p": "Which 1939 film features the character Scarlett O'Hara?",
+   "o": [
+    "Gone with the Wind",
+    "Casablanca",
+    "Rebecca",
+    "Wuthering Heights"
+   ],
+   "r": 0,
+   "d": 3
+  },
+  {
+   "id": "en-entretenimiento-046",
+   "p": "Who composed the violin concertos The Four Seasons?",
+   "o": [
+    "Johann Sebastian Bach",
+    "Antonio Vivaldi",
+    "George Handel",
+    "Joseph Haydn"
+   ],
+   "r": 1,
+   "d": 3
+  },
+  {
+   "id": "en-entretenimiento-047",
+   "p": "What was Disney's first full-length animated film (1937)?",
+   "o": [
+    "Pinocchio",
+    "Bambi",
+    "Snow White and the Seven Dwarfs",
+    "Fantasia"
+   ],
+   "r": 2,
+   "d": 3
+  },
+  {
+   "id": "en-entretenimiento-048",
+   "p": "Who directed the 1968 film 2001: A Space Odyssey?",
+   "o": [
+    "Ridley Scott",
+    "Steven Spielberg",
+    "George Lucas",
+    "Stanley Kubrick"
+   ],
+   "r": 3,
+   "d": 3
+  },
+  {
+   "id": "en-entretenimiento-049",
+   "p": "Which novel features the lawyer Atticus Finch?",
+   "o": [
+    "To Kill a Mockingbird",
+    "The Catcher in the Rye",
+    "Of Mice and Men",
+    "Little Women"
+   ],
+   "r": 0,
+   "d": 3
+  },
+  {
+   "id": "en-entretenimiento-050",
+   "p": "Which Nirvana album includes \"Smells Like Teen Spirit\"?",
+   "o": [
+    "In Utero",
+    "Nevermind",
+    "Bleach",
+    "Incesticide"
+   ],
+   "r": 1,
+   "d": 3
+  },
+  {
+   "id": "en-entretenimiento-051",
+   "p": "Which South Korean film won Best Picture at the 2020 Oscars?",
+   "o": [
+    "Burning",
+    "Oldboy",
+    "Parasite",
+    "Train to Busan"
+   ],
+   "r": 2,
+   "d": 3
+  },
+  {
+   "id": "en-entretenimiento-052",
+   "p": "Which Hitchcock film includes a famous shower scene?",
+   "o": [
+    "Vertigo",
+    "Rear Window",
+    "The Birds",
+    "Psycho"
+   ],
+   "r": 3,
+   "d": 3
+  },
+  {
+   "id": "en-entretenimiento-053",
+   "p": "Which rock singer is nicknamed The Boss?",
+   "o": [
+    "Bruce Springsteen",
+    "Billy Joel",
+    "Bob Seger",
+    "Tom Petty"
+   ],
+   "r": 0,
+   "d": 3
+  },
+  {
+   "id": "en-entretenimiento-054",
+   "p": "Which duo recorded \"Mrs. Robinson\"?",
+   "o": [
+    "Hall & Oates",
+    "Simon & Garfunkel",
+    "The Everly Brothers",
+    "Sonny & Cher"
+   ],
+   "r": 1,
+   "d": 3
+  },
+  {
+   "id": "en-entretenimiento-055",
+   "p": "Mario first appeared in which arcade game?",
+   "o": [
+    "Pac-Man",
+    "Space Invaders",
+    "Donkey Kong",
+    "Pong"
+   ],
+   "r": 2,
+   "d": 3
+  }
+ ]
+}

@@ -1,0 +1,666 @@
+{
+ "idioma": "es",
+ "categoria": "deportes",
+ "preguntas": [
+  {
+   "id": "es-deportes-001",
+   "p": "¿Qué país ganó el Mundial de fútbol de 2010?",
+   "o": [
+    "España",
+    "Países Bajos",
+    "Alemania",
+    "Uruguay"
+   ],
+   "r": 0,
+   "d": 1
+  },
+  {
+   "id": "es-deportes-002",
+   "p": "¿En qué deporte se disputa el torneo de Wimbledon?",
+   "o": [
+    "Golf",
+    "Tenis",
+    "Críquet",
+    "Polo"
+   ],
+   "r": 1,
+   "d": 1
+  },
+  {
+   "id": "es-deportes-003",
+   "p": "¿Cuántos anillos tiene el símbolo olímpico?",
+   "o": [
+    "Cuatro",
+    "Seis",
+    "Cinco",
+    "Siete"
+   ],
+   "r": 2,
+   "d": 1
+  },
+  {
+   "id": "es-deportes-004",
+   "p": "¿Qué selección ganó el Mundial de fútbol de 2014?",
+   "o": [
+    "Argentina",
+    "Brasil",
+    "Países Bajos",
+    "Alemania"
+   ],
+   "r": 3,
+   "d": 1
+  },
+  {
+   "id": "es-deportes-005",
+   "p": "¿Qué ciclista colombiano ganó el Tour de Francia de 2019?",
+   "o": [
+    "Egan Bernal",
+    "Nairo Quintana",
+    "Rigoberto Urán",
+    "Fernando Gaviria"
+   ],
+   "r": 0,
+   "d": 1
+  },
+  {
+   "id": "es-deportes-006",
+   "p": "¿Cuántos puntos vale un tiro libre en el baloncesto?",
+   "o": [
+    "Dos",
+    "Uno",
+    "Tres",
+    "Cuatro"
+   ],
+   "r": 1,
+   "d": 1
+  },
+  {
+   "id": "es-deportes-007",
+   "p": "¿Qué país organizó el Mundial de fútbol de 1994?",
+   "o": [
+    "México",
+    "Italia",
+    "Estados Unidos",
+    "Francia"
+   ],
+   "r": 2,
+   "d": 1
+  },
+  {
+   "id": "es-deportes-008",
+   "p": "¿Qué selección ha ganado más Copas del Mundo masculinas?",
+   "o": [
+    "Alemania",
+    "Italia",
+    "Argentina",
+    "Brasil"
+   ],
+   "r": 3,
+   "d": 1
+  },
+  {
+   "id": "es-deportes-009",
+   "p": "¿Cuántos jugadores de un equipo hay en la cancha en voleibol?",
+   "o": [
+    "Seis",
+    "Cinco",
+    "Siete",
+    "Ocho"
+   ],
+   "r": 0,
+   "d": 1
+  },
+  {
+   "id": "es-deportes-010",
+   "p": "¿En qué deporte se logra un \"hoyo en uno\"?",
+   "o": [
+    "Billar",
+    "Golf",
+    "Bolos",
+    "Béisbol"
+   ],
+   "r": 1,
+   "d": 1
+  },
+  {
+   "id": "es-deportes-011",
+   "p": "¿Con qué equipo de la NBA ganó seis títulos Michael Jordan?",
+   "o": [
+    "Los Angeles Lakers",
+    "Boston Celtics",
+    "Chicago Bulls",
+    "Detroit Pistons"
+   ],
+   "r": 2,
+   "d": 1
+  },
+  {
+   "id": "es-deportes-012",
+   "p": "¿Cuántos minutos dura un partido de fútbol sin tiempo extra?",
+   "o": [
+    "80",
+    "100",
+    "120",
+    "90"
+   ],
+   "r": 3,
+   "d": 1
+  },
+  {
+   "id": "es-deportes-013",
+   "p": "¿Qué país es la cuna del sumo?",
+   "o": [
+    "Japón",
+    "China",
+    "Corea del Sur",
+    "Tailandia"
+   ],
+   "r": 0,
+   "d": 1
+  },
+  {
+   "id": "es-deportes-014",
+   "p": "¿De qué color es la camiseta de local de la Selección Colombia?",
+   "o": [
+    "Azul",
+    "Amarillo",
+    "Rojo",
+    "Blanco"
+   ],
+   "r": 1,
+   "d": 1
+  },
+  {
+   "id": "es-deportes-015",
+   "p": "¿Qué argentino fue capitán campeón del Mundial de 2022?",
+   "o": [
+    "Ángel Di María",
+    "Sergio Agüero",
+    "Lionel Messi",
+    "Paulo Dybala"
+   ],
+   "r": 2,
+   "d": 1
+  },
+  {
+   "id": "es-deportes-016",
+   "p": "¿En qué ciudad se celebraron los Juegos Olímpicos de 2016?",
+   "o": [
+    "Londres",
+    "Tokio",
+    "Pekín",
+    "Río de Janeiro"
+   ],
+   "r": 3,
+   "d": 1
+  },
+  {
+   "id": "es-deportes-017",
+   "p": "¿Cuántos jugadores de un equipo hay en la cancha en baloncesto?",
+   "o": [
+    "Cinco",
+    "Cuatro",
+    "Seis",
+    "Siete"
+   ],
+   "r": 0,
+   "d": 1
+  },
+  {
+   "id": "es-deportes-018",
+   "p": "¿Cómo se llama el estadio del Real Madrid?",
+   "o": [
+    "Camp Nou",
+    "Santiago Bernabéu",
+    "Mestalla",
+    "San Siro"
+   ],
+   "r": 1,
+   "d": 1
+  },
+  {
+   "id": "es-deportes-019",
+   "p": "¿Qué deporte practica el jamaiquino Usain Bolt?",
+   "o": [
+    "Natación",
+    "Ciclismo",
+    "Atletismo",
+    "Boxeo"
+   ],
+   "r": 2,
+   "d": 1
+  },
+  {
+   "id": "es-deportes-020",
+   "p": "¿Qué futbolista colombiano es apodado \"El Pibe\"?",
+   "o": [
+    "James Rodríguez",
+    "Radamel Falcao",
+    "Faustino Asprilla",
+    "Carlos Valderrama"
+   ],
+   "r": 3,
+   "d": 1
+  },
+  {
+   "id": "es-deportes-021",
+   "p": "¿Cuántos jugadores defienden en el campo en el béisbol?",
+   "o": [
+    "Nueve",
+    "Ocho",
+    "Diez",
+    "Once"
+   ],
+   "r": 0,
+   "d": 1
+  },
+  {
+   "id": "es-deportes-022",
+   "p": "¿Qué deporte se asocia con el Tour de Francia?",
+   "o": [
+    "Atletismo",
+    "Ciclismo",
+    "Automovilismo",
+    "Esquí"
+   ],
+   "r": 1,
+   "d": 1
+  },
+  {
+   "id": "es-deportes-023",
+   "p": "¿En qué año ganó Colombia la Copa América jugada en casa?",
+   "o": [
+    "1999",
+    "2003",
+    "2001",
+    "1997"
+   ],
+   "r": 2,
+   "d": 2
+  },
+  {
+   "id": "es-deportes-024",
+   "p": "¿Qué selección ganó el Mundial de fútbol de 1986?",
+   "o": [
+    "Alemania Occidental",
+    "Brasil",
+    "Italia",
+    "Argentina"
+   ],
+   "r": 3,
+   "d": 2
+  },
+  {
+   "id": "es-deportes-025",
+   "p": "¿Qué país fue sede de los Mundiales de 1970 y de 1986?",
+   "o": [
+    "México",
+    "Brasil",
+    "España",
+    "Argentina"
+   ],
+   "r": 0,
+   "d": 2
+  },
+  {
+   "id": "es-deportes-026",
+   "p": "¿Qué piloto brasileño de F1 ganó tres títulos y murió en 1994?",
+   "o": [
+    "Nelson Piquet",
+    "Ayrton Senna",
+    "Emerson Fittipaldi",
+    "Rubens Barrichello"
+   ],
+   "r": 1,
+   "d": 2
+  },
+  {
+   "id": "es-deportes-027",
+   "p": "¿Qué ciudad fue sede de los Juegos Olímpicos de 1968?",
+   "o": [
+    "Múnich",
+    "Tokio",
+    "Ciudad de México",
+    "Roma"
+   ],
+   "r": 2,
+   "d": 2
+  },
+  {
+   "id": "es-deportes-028",
+   "p": "¿Qué ciclista colombiano ganó el Giro de Italia de 2014?",
+   "o": [
+    "Rigoberto Urán",
+    "Egan Bernal",
+    "Miguel Ángel López",
+    "Nairo Quintana"
+   ],
+   "r": 3,
+   "d": 2
+  },
+  {
+   "id": "es-deportes-029",
+   "p": "¿Quién logró el primer oro olímpico de Colombia en Sídney 2000?",
+   "o": [
+    "María Isabel Urrutia",
+    "Mariana Pajón",
+    "Caterine Ibargüen",
+    "Yuri Alvear"
+   ],
+   "r": 0,
+   "d": 2
+  },
+  {
+   "id": "es-deportes-030",
+   "p": "¿Qué colombiana ganó oro en BMX en Londres 2012?",
+   "o": [
+    "Caterine Ibargüen",
+    "Mariana Pajón",
+    "Yuri Alvear",
+    "Ingrith Valencia"
+   ],
+   "r": 1,
+   "d": 2
+  },
+  {
+   "id": "es-deportes-031",
+   "p": "¿Qué selección ganó el primer Mundial de fútbol, en 1930?",
+   "o": [
+    "Argentina",
+    "Brasil",
+    "Uruguay",
+    "Italia"
+   ],
+   "r": 2,
+   "d": 2
+  },
+  {
+   "id": "es-deportes-032",
+   "p": "¿Cuántos torneos de Grand Slam hay en el tenis cada año?",
+   "o": [
+    "Tres",
+    "Cinco",
+    "Seis",
+    "Cuatro"
+   ],
+   "r": 3,
+   "d": 2
+  },
+  {
+   "id": "es-deportes-033",
+   "p": "En fútbol, ¿qué es un \"hat-trick\"?",
+   "o": [
+    "Tres goles de un solo jugador",
+    "Tres pases de gol seguidos",
+    "Tres tarjetas a un jugador",
+    "Tres títulos en un año"
+   ],
+   "r": 0,
+   "d": 2
+  },
+  {
+   "id": "es-deportes-034",
+   "p": "¿Cuál es la distancia oficial de un maratón?",
+   "o": [
+    "40,250 km",
+    "42,195 km",
+    "44,195 km",
+    "41,095 km"
+   ],
+   "r": 1,
+   "d": 2
+  },
+  {
+   "id": "es-deportes-035",
+   "p": "¿Qué tenista suizo ganó ocho veces Wimbledon?",
+   "o": [
+    "Stan Wawrinka",
+    "Marc Rosset",
+    "Roger Federer",
+    "Henri Leconte"
+   ],
+   "r": 2,
+   "d": 2
+  },
+  {
+   "id": "es-deportes-036",
+   "p": "¿Qué selección ganó la Eurocopa de 2008?",
+   "o": [
+    "Alemania",
+    "Italia",
+    "Francia",
+    "España"
+   ],
+   "r": 3,
+   "d": 2
+  },
+  {
+   "id": "es-deportes-037",
+   "p": "¿Cuántos puntos vale un try en el rugby?",
+   "o": [
+    "Cinco",
+    "Tres",
+    "Seis",
+    "Siete"
+   ],
+   "r": 0,
+   "d": 2
+  },
+  {
+   "id": "es-deportes-038",
+   "p": "¿Qué atleta ganó el oro olímpico en 100 m en 2008, 2012 y 2016?",
+   "o": [
+    "Yohan Blake",
+    "Usain Bolt",
+    "Asafa Powell",
+    "Justin Gatlin"
+   ],
+   "r": 1,
+   "d": 2
+  },
+  {
+   "id": "es-deportes-039",
+   "p": "¿En qué país se codificaron las reglas modernas del fútbol?",
+   "o": [
+    "Italia",
+    "Escocia",
+    "Inglaterra",
+    "Alemania"
+   ],
+   "r": 2,
+   "d": 2
+  },
+  {
+   "id": "es-deportes-040",
+   "p": "¿Quién fue el goleador del Mundial de Brasil 2014?",
+   "o": [
+    "Radamel Falcao",
+    "Juan Cuadrado",
+    "Teófilo Gutiérrez",
+    "James Rodríguez"
+   ],
+   "r": 3,
+   "d": 2
+  },
+  {
+   "id": "es-deportes-041",
+   "p": "¿En qué país se celebraron los Juegos Olímpicos de 2000?",
+   "o": [
+    "Australia",
+    "Grecia",
+    "Estados Unidos",
+    "China"
+   ],
+   "r": 0,
+   "d": 2
+  },
+  {
+   "id": "es-deportes-042",
+   "p": "¿Qué nadador estadounidense tiene más oros olímpicos?",
+   "o": [
+    "Mark Spitz",
+    "Michael Phelps",
+    "Ryan Lochte",
+    "Ian Thorpe"
+   ],
+   "r": 1,
+   "d": 2
+  },
+  {
+   "id": "es-deportes-043",
+   "p": "¿Cuánto mide de largo una piscina olímpica?",
+   "o": [
+    "25 metros",
+    "75 metros",
+    "50 metros",
+    "100 metros"
+   ],
+   "r": 2,
+   "d": 2
+  },
+  {
+   "id": "es-deportes-044",
+   "p": "¿Qué equipo colombiano ganó la Copa Libertadores en 1989?",
+   "o": [
+    "Millonarios",
+    "América de Cali",
+    "Deportivo Cali",
+    "Atlético Nacional"
+   ],
+   "r": 3,
+   "d": 3
+  },
+  {
+   "id": "es-deportes-045",
+   "p": "¿Qué selección ganó el Mundial de 1950, jugado en Brasil?",
+   "o": [
+    "Uruguay",
+    "Brasil",
+    "Argentina",
+    "España"
+   ],
+   "r": 0,
+   "d": 3
+  },
+  {
+   "id": "es-deportes-046",
+   "p": "¿Quién ganó cinco Tours de Francia seguidos entre 1991 y 1995?",
+   "o": [
+    "Eddy Merckx",
+    "Miguel Induráin",
+    "Bernard Hinault",
+    "Greg LeMond"
+   ],
+   "r": 1,
+   "d": 3
+  },
+  {
+   "id": "es-deportes-047",
+   "p": "¿En qué año se jugó el primer Mundial de fútbol femenino?",
+   "o": [
+    "1987",
+    "1995",
+    "1991",
+    "1999"
+   ],
+   "r": 2,
+   "d": 3
+  },
+  {
+   "id": "es-deportes-048",
+   "p": "¿Quién ganó el primer campeonato de F1, en 1950?",
+   "o": [
+    "Juan Manuel Fangio",
+    "Alberto Ascari",
+    "Stirling Moss",
+    "Giuseppe Farina"
+   ],
+   "r": 3,
+   "d": 3
+  },
+  {
+   "id": "es-deportes-049",
+   "p": "¿Qué ciudad albergó los primeros Juegos Olímpicos modernos, en 1896?",
+   "o": [
+    "Atenas",
+    "París",
+    "Londres",
+    "Roma"
+   ],
+   "r": 0,
+   "d": 3
+  },
+  {
+   "id": "es-deportes-050",
+   "p": "¿Qué ciclista colombiano ganó la Vuelta a España de 1987?",
+   "o": [
+    "Fabio Parra",
+    "Lucho Herrera",
+    "Martín Ramírez",
+    "Santiago Botero"
+   ],
+   "r": 1,
+   "d": 3
+  },
+  {
+   "id": "es-deportes-051",
+   "p": "¿Qué país renunció a organizar el Mundial de 1986?",
+   "o": [
+    "Chile",
+    "Argentina",
+    "Colombia",
+    "Brasil"
+   ],
+   "r": 2,
+   "d": 3
+  },
+  {
+   "id": "es-deportes-052",
+   "p": "¿Quién dirigió a Colombia en los Mundiales de 1990 y 1994?",
+   "o": [
+    "Hernán Darío Gómez",
+    "Luis Fernando Suárez",
+    "Reinaldo Rueda",
+    "Francisco Maturana"
+   ],
+   "r": 3,
+   "d": 3
+  },
+  {
+   "id": "es-deportes-053",
+   "p": "¿Qué tenista logró el Golden Slam en 1988?",
+   "o": [
+    "Steffi Graf",
+    "Martina Navratilova",
+    "Monica Seles",
+    "Chris Evert"
+   ],
+   "r": 0,
+   "d": 3
+  },
+  {
+   "id": "es-deportes-054",
+   "p": "¿Quién marcó 13 goles en el Mundial de 1958?",
+   "o": [
+    "Pelé",
+    "Just Fontaine",
+    "Eusébio",
+    "Gerd Müller"
+   ],
+   "r": 1,
+   "d": 3
+  },
+  {
+   "id": "es-deportes-055",
+   "p": "¿Cuántos jugadores tiene un equipo de rugby unión en cancha?",
+   "o": [
+    "Trece",
+    "Once",
+    "Quince",
+    "Dieciocho"
+   ],
+   "r": 2,
+   "d": 2
+  }
+ ]
+}

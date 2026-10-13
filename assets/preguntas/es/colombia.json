@@ -1,0 +1,666 @@
+{
+"idioma": "es",
+"categoria": "colombia",
+"preguntas": [
+{
+"id": "es-colombia-001",
+"p": "¿Cuál es la capital de Colombia?",
+"o": [
+"Bogotá",
+"Medellín",
+"Cali",
+"Cartagena"
+],
+"r": 0,
+"d": 1
+},
+{
+"id": "es-colombia-002",
+"p": "¿Quién escribió la novela «Cien años de soledad»?",
+"o": [
+"Mario Vargas Llosa",
+"Gabriel García Márquez",
+"Julio Cortázar",
+"Jorge Isaacs"
+],
+"r": 1,
+"d": 1
+},
+{
+"id": "es-colombia-003",
+"p": "¿Cómo se llama el pueblo ficticio de «Cien años de soledad»?",
+"o": [
+"Comala",
+"Santa María",
+"Macondo",
+"Yoknapatawpha"
+],
+"r": 2,
+"d": 1
+},
+{
+"id": "es-colombia-004",
+"p": "¿Cuál es el orden de colores de la bandera de Colombia, de arriba abajo?",
+"o": [
+"Amarillo, rojo y azul",
+"Azul, amarillo y rojo",
+"Rojo, amarillo y azul",
+"Amarillo, azul y rojo"
+],
+"r": 3,
+"d": 1
+},
+{
+"id": "es-colombia-005",
+"p": "¿Qué ave aparece en la parte superior del escudo de Colombia?",
+"o": [
+"El cóndor",
+"El águila",
+"El quetzal",
+"La guacamaya"
+],
+"r": 0,
+"d": 1
+},
+{
+"id": "es-colombia-006",
+"p": "¿Qué instrumento es esencial en el vallenato?",
+"o": [
+"El bandoneón",
+"El acordeón",
+"El arpa llanera",
+"La marimba"
+],
+"r": 1,
+"d": 1
+},
+{
+"id": "es-colombia-007",
+"p": "¿En qué ciudad nació la cantante Shakira?",
+"o": [
+"Santa Marta",
+"Cartagena",
+"Barranquilla",
+"Montería"
+],
+"r": 2,
+"d": 1
+},
+{
+"id": "es-colombia-008",
+"p": "¿Qué ciudad colombiana es conocida como la capital mundial de la salsa?",
+"o": [
+"Barranquilla",
+"Medellín",
+"Bucaramanga",
+"Cali"
+],
+"r": 3,
+"d": 1
+},
+{
+"id": "es-colombia-009",
+"p": "¿Con qué ingrediente principal se hacen las arepas colombianas?",
+"o": [
+"Maíz",
+"Trigo",
+"Yuca",
+"Arroz"
+],
+"r": 0,
+"d": 1
+},
+{
+"id": "es-colombia-010",
+"p": "¿En cuántas ramas se divide la cordillera de los Andes en Colombia?",
+"o": [
+"Dos",
+"Tres",
+"Cuatro",
+"Cinco"
+],
+"r": 1,
+"d": 1
+},
+{
+"id": "es-colombia-011",
+"p": "¿Qué mar baña la costa norte de Colombia?",
+"o": [
+"El mar Cantábrico",
+"El golfo de México",
+"El mar Caribe",
+"El mar Mediterráneo"
+],
+"r": 2,
+"d": 1
+},
+{
+"id": "es-colombia-012",
+"p": "¿Qué ciudad colombiana es famosa por su centro histórico amurallado?",
+"o": [
+"Popayán",
+"Tunja",
+"Santa Marta",
+"Cartagena"
+],
+"r": 3,
+"d": 1
+},
+{
+"id": "es-colombia-013",
+"p": "¿Qué región de Colombia es la más famosa por su producción de café?",
+"o": [
+"El Eje Cafetero",
+"Los Llanos Orientales",
+"La región Caribe",
+"La Orinoquía"
+],
+"r": 0,
+"d": 1
+},
+{
+"id": "es-colombia-014",
+"p": "¿Qué artista colombiano es famoso por sus esculturas y pinturas voluminosas?",
+"o": [
+"Alejandro Obregón",
+"Fernando Botero",
+"Édgar Negret",
+"Débora Arango"
+],
+"r": 1,
+"d": 1
+},
+{
+"id": "es-colombia-015",
+"p": "¿En qué ciudad se celebra el famoso Carnaval cada año antes de Cuaresma?",
+"o": [
+"Cali",
+"Pasto",
+"Barranquilla",
+"Manizales"
+],
+"r": 2,
+"d": 1
+},
+{
+"id": "es-colombia-016",
+"p": "¿Cuál es la moneda de Colombia?",
+"o": [
+"El sol",
+"El bolívar",
+"El colón",
+"El peso"
+],
+"r": 3,
+"d": 1
+},
+{
+"id": "es-colombia-017",
+"p": "¿De qué región de Colombia es típica la bandeja paisa?",
+"o": [
+"Antioquia",
+"Santander",
+"Cundinamarca",
+"Nariño"
+],
+"r": 0,
+"d": 1
+},
+{
+"id": "es-colombia-018",
+"p": "¿Cuál es la capital del departamento de Antioquia?",
+"o": [
+"Medellín",
+"Bucaramanga",
+"Pereira",
+"Manizales"
+],
+"r": 0,
+"d": 1
+},
+{
+"id": "es-colombia-019",
+"p": "¿Cuál es la capital de Perú?",
+"o": [
+"Cusco",
+"Arequipa",
+"Lima",
+"Quito"
+],
+"r": 2,
+"d": 1
+},
+{
+"id": "es-colombia-020",
+"p": "¿Qué cantante colombiano interpretó «La camisa negra»?",
+"o": [
+"Maluma",
+"Juanes",
+"J Balvin",
+"Fonseca"
+],
+"r": 1,
+"d": 1
+},
+{
+"id": "es-colombia-021",
+"p": "¿Cómo se llama el sombrero tradicional del Caribe colombiano?",
+"o": [
+"Sombrero de charro",
+"Boina",
+"Sombrero vueltiao",
+"Gorro de lana"
+],
+"r": 2,
+"d": 1
+},
+{
+"id": "es-colombia-022",
+"p": "¿Qué plato colombiano es de masa de maíz envuelta en hoja de plátano?",
+"o": [
+"Empanada",
+"Buñuelo",
+"Tamal",
+"Patacón"
+],
+"r": 2,
+"d": 1
+},
+{
+"id": "es-colombia-023",
+"p": "¿Cuál es el principal río de Colombia, que desemboca cerca de Barranquilla?",
+"o": [
+"El Atrato",
+"El Guaviare",
+"El Magdalena",
+"El Putumayo"
+],
+"r": 2,
+"d": 2
+},
+{
+"id": "es-colombia-024",
+"p": "¿Cuántos departamentos tiene Colombia?",
+"o": [
+"28",
+"30",
+"36",
+"32"
+],
+"r": 3,
+"d": 2
+},
+{
+"id": "es-colombia-025",
+"p": "¿En qué año se dio el Grito de Independencia en Bogotá, el 20 de julio?",
+"o": [
+"1810",
+"1819",
+"1821",
+"1808"
+],
+"r": 0,
+"d": 2
+},
+{
+"id": "es-colombia-026",
+"p": "¿En qué año se libró la Batalla de Boyacá?",
+"o": [
+"1810",
+"1819",
+"1824",
+"1830"
+],
+"r": 1,
+"d": 2
+},
+{
+"id": "es-colombia-027",
+"p": "¿En qué ciudad nació Simón Bolívar?",
+"o": [
+"Bogotá",
+"Quito",
+"Caracas",
+"Lima"
+],
+"r": 2,
+"d": 2
+},
+{
+"id": "es-colombia-028",
+"p": "¿En qué año recibió García Márquez el Premio Nobel de Literatura?",
+"o": [
+"1967",
+"1990",
+"1975",
+"1982"
+],
+"r": 3,
+"d": 2
+},
+{
+"id": "es-colombia-029",
+"p": "¿En qué región de Colombia nació la cumbia?",
+"o": [
+"En la costa Caribe",
+"En los Andes",
+"En la Amazonía",
+"En los Llanos"
+],
+"r": 0,
+"d": 2
+},
+{
+"id": "es-colombia-030",
+"p": "¿En qué ciudad se celebra el Festival de la Leyenda Vallenata?",
+"o": [
+"Riohacha",
+"Valledupar",
+"Sincelejo",
+"Montería"
+],
+"r": 1,
+"d": 2
+},
+{
+"id": "es-colombia-031",
+"p": "¿Qué cantante colombiano interpretó «La tierra del olvido»?",
+"o": [
+"Juanes",
+"Fonseca",
+"Carlos Vives",
+"Silvestre Dangond"
+],
+"r": 2,
+"d": 2
+},
+{
+"id": "es-colombia-032",
+"p": "¿Qué ciclista colombiano ganó el Tour de Francia en 2019?",
+"o": [
+"Nairo Quintana",
+"Rigoberto Urán",
+"Fernando Gaviria",
+"Egan Bernal"
+],
+"r": 3,
+"d": 2
+},
+{
+"id": "es-colombia-033",
+"p": "¿Qué apodo tuvo el futbolista colombiano Carlos Valderrama?",
+"o": [
+"El Pibe",
+"El Tigre",
+"El Cabezón",
+"El Bendito"
+],
+"r": 0,
+"d": 2
+},
+{
+"id": "es-colombia-034",
+"p": "¿Qué colombiano fue el máximo goleador del Mundial de 2014?",
+"o": [
+"Radamel Falcao",
+"James Rodríguez",
+"Teófilo Gutiérrez",
+"Juan Cuadrado"
+],
+"r": 1,
+"d": 2
+},
+{
+"id": "es-colombia-035",
+"p": "¿En qué ciudad está ubicado el Parque Nacional Natural Tayrona?",
+"o": [
+"Cartagena",
+"Riohacha",
+"Santa Marta",
+"Barranquilla"
+],
+"r": 2,
+"d": 2
+},
+{
+"id": "es-colombia-036",
+"p": "¿Qué apodo recibe Medellín por su clima agradable?",
+"o": [
+"Ciudad de las puertas abiertas",
+"Ciudad de los cerros verdes",
+"Ciudad del sol permanente",
+"Ciudad de la eterna primavera"
+],
+"r": 3,
+"d": 2
+},
+{
+"id": "es-colombia-037",
+"p": "¿Qué variedad de café es la más cultivada en Colombia?",
+"o": [
+"Arábica",
+"Robusta",
+"Liberica",
+"Excelsa"
+],
+"r": 0,
+"d": 2
+},
+{
+"id": "es-colombia-038",
+"p": "¿Qué tiene Colombia en mayor número que cualquier otro país del mundo?",
+"o": [
+"Especies de felinos",
+"Especies de aves",
+"Especies de osos",
+"Especies de elefantes"
+],
+"r": 1,
+"d": 2
+},
+{
+"id": "es-colombia-039",
+"p": "¿Cuál es el único oso nativo de Sudamérica, presente en Colombia?",
+"o": [
+"El oso pardo",
+"El oso hormiguero",
+"El oso de anteojos",
+"El oso perezoso"
+],
+"r": 2,
+"d": 2
+},
+{
+"id": "es-colombia-040",
+"p": "¿Cuál es la capital del departamento del Amazonas?",
+"o": [
+"Mitú",
+"Inírida",
+"Florencia",
+"Leticia"
+],
+"r": 3,
+"d": 2
+},
+{
+"id": "es-colombia-041",
+"p": "¿Cuál de estos países NO limita con Colombia?",
+"o": [
+"Bolivia",
+"Ecuador",
+"Panamá",
+"Venezuela"
+],
+"r": 0,
+"d": 2
+},
+{
+"id": "es-colombia-042",
+"p": "¿Cuál es la montaña más alta de América, ubicada en Argentina?",
+"o": [
+"El Chimborazo",
+"El Aconcagua",
+"El Huascarán",
+"El Illimani"
+],
+"r": 1,
+"d": 2
+},
+{
+"id": "es-colombia-043",
+"p": "¿Qué país sudamericano lleva el nombre de Simón Bolívar?",
+"o": [
+"Venezuela",
+"Colombia",
+"Bolivia",
+"Ecuador"
+],
+"r": 2,
+"d": 2
+},
+{
+"id": "es-colombia-044",
+"p": "¿En qué ciudad colombiana está el Museo del Oro?",
+"o": [
+"Medellín",
+"Cali",
+"Popayán",
+"Bogotá"
+],
+"r": 3,
+"d": 2
+},
+{
+"id": "es-colombia-045",
+"p": "¿Cuál es el árbol nacional de Colombia?",
+"o": [
+"La palma de cera",
+"El guayacán",
+"El roble",
+"El ceibo"
+],
+"r": 0,
+"d": 2
+},
+{
+"id": "es-colombia-046",
+"p": "¿Qué hierba aromática distingue al ajiaco santafereño?",
+"o": [
+"El cilantro",
+"La guasca",
+"El perejil",
+"El orégano"
+],
+"r": 1,
+"d": 3
+},
+{
+"id": "es-colombia-047",
+"p": "¿Qué Gran Vuelta ganó Nairo Quintana en 2014?",
+"o": [
+"El Tour de Francia",
+"La Vuelta a España",
+"El Giro de Italia",
+"La Vuelta a Suiza"
+],
+"r": 2,
+"d": 3
+},
+{
+"id": "es-colombia-048",
+"p": "¿En qué año ganó Colombia su primera Copa América?",
+"o": [
+"1993",
+"1999",
+"2004",
+"2001"
+],
+"r": 3,
+"d": 3
+},
+{
+"id": "es-colombia-049",
+"p": "¿En qué departamento está el río Caño Cristales, de varios colores?",
+"o": [
+"Meta",
+"Guaviare",
+"Vichada",
+"Caquetá"
+],
+"r": 0,
+"d": 3
+},
+{
+"id": "es-colombia-050",
+"p": "¿Cuál es el pico más alto de Colombia, en la Sierra Nevada de Santa Marta?",
+"o": [
+"Ritacuba Blanco",
+"Cristóbal Colón",
+"Nevado del Huila",
+"Nevado del Ruiz"
+],
+"r": 1,
+"d": 3
+},
+{
+"id": "es-colombia-051",
+"p": "¿Quién escribió la letra del himno nacional de Colombia?",
+"o": [
+"Oreste Sindici",
+"José Asunción Silva",
+"Rafael Núñez",
+"Rafael Pombo"
+],
+"r": 2,
+"d": 3
+},
+{
+"id": "es-colombia-052",
+"p": "¿Cuál es el departamento más extenso de Colombia?",
+"o": [
+"Caquetá",
+"Vichada",
+"Meta",
+"Amazonas"
+],
+"r": 3,
+"d": 3
+},
+{
+"id": "es-colombia-053",
+"p": "¿En qué año la UNESCO declaró el Paisaje Cultural Cafetero Patrimonio Mundial?",
+"o": [
+"2011",
+"1995",
+"2005",
+"2018"
+],
+"r": 0,
+"d": 3
+},
+{
+"id": "es-colombia-054",
+"p": "¿Qué rana colombiana de piel amarilla es de las más venenosas del mundo?",
+"o": [
+"La rana toro",
+"La rana de cristal",
+"La rana dardo dorada",
+"La rana arborícola"
+],
+"r": 2,
+"d": 3
+},
+{
+"id": "es-colombia-055",
+"p": "¿En qué país está el Salto Ángel, la cascada más alta del mundo?",
+"o": [
+"Colombia",
+"Brasil",
+"Venezuela",
+"Guyana"
+],
+"r": 2,
+"d": 3
+}
+]
+}

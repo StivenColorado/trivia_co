@@ -1,0 +1,666 @@
+{
+ "idioma": "en",
+ "categoria": "ciencia",
+ "preguntas": [
+  {
+   "id": "en-ciencia-001",
+   "p": "Which planet is known as the Red Planet?",
+   "o": [
+    "Mars",
+    "Venus",
+    "Jupiter",
+    "Mercury"
+   ],
+   "r": 0,
+   "d": 1
+  },
+  {
+   "id": "en-ciencia-002",
+   "p": "Which gas do plants absorb for photosynthesis?",
+   "o": [
+    "Oxygen",
+    "Carbon dioxide",
+    "Nitrogen",
+    "Hydrogen"
+   ],
+   "r": 1,
+   "d": 1
+  },
+  {
+   "id": "en-ciencia-003",
+   "p": "What is H2O commonly known as?",
+   "o": [
+    "Salt",
+    "Acid",
+    "Water",
+    "Alcohol"
+   ],
+   "r": 2,
+   "d": 1
+  },
+  {
+   "id": "en-ciencia-004",
+   "p": "How many planets are in our solar system?",
+   "o": [
+    "Seven",
+    "Nine",
+    "Ten",
+    "Eight"
+   ],
+   "r": 3,
+   "d": 1
+  },
+  {
+   "id": "en-ciencia-005",
+   "p": "What is the closest star to Earth?",
+   "o": [
+    "The Sun",
+    "Sirius",
+    "Polaris",
+    "Betelgeuse"
+   ],
+   "r": 0,
+   "d": 1
+  },
+  {
+   "id": "en-ciencia-006",
+   "p": "Which organ pumps blood through the body?",
+   "o": [
+    "Liver",
+    "Heart",
+    "Lungs",
+    "Kidney"
+   ],
+   "r": 1,
+   "d": 1
+  },
+  {
+   "id": "en-ciencia-007",
+   "p": "What is the hardest natural substance?",
+   "o": [
+    "Quartz",
+    "Granite",
+    "Diamond",
+    "Marble"
+   ],
+   "r": 2,
+   "d": 1
+  },
+  {
+   "id": "en-ciencia-008",
+   "p": "What force pulls objects toward Earth?",
+   "o": [
+    "Magnetism",
+    "Friction",
+    "Inertia",
+    "Gravity"
+   ],
+   "r": 3,
+   "d": 1
+  },
+  {
+   "id": "en-ciencia-009",
+   "p": "At what temperature does water freeze?",
+   "o": [
+    "0°C",
+    "10°C",
+    "32°C",
+    "-10°C"
+   ],
+   "r": 0,
+   "d": 1
+  },
+  {
+   "id": "en-ciencia-010",
+   "p": "Which of these animals is a mammal?",
+   "o": [
+    "Shark",
+    "Dolphin",
+    "Turtle",
+    "Eagle"
+   ],
+   "r": 1,
+   "d": 1
+  },
+  {
+   "id": "en-ciencia-011",
+   "p": "Which insect makes honey?",
+   "o": [
+    "Ant",
+    "Beetle",
+    "Bee",
+    "Butterfly"
+   ],
+   "r": 2,
+   "d": 1
+  },
+  {
+   "id": "en-ciencia-012",
+   "p": "Which planet is famous for its rings?",
+   "o": [
+    "Mars",
+    "Venus",
+    "Mercury",
+    "Saturn"
+   ],
+   "r": 3,
+   "d": 1
+  },
+  {
+   "id": "en-ciencia-013",
+   "p": "What is the center of an atom called?",
+   "o": [
+    "Nucleus",
+    "Orbit",
+    "Shell",
+    "Crust"
+   ],
+   "r": 0,
+   "d": 1
+  },
+  {
+   "id": "en-ciencia-014",
+   "p": "What do we call animals that eat only plants?",
+   "o": [
+    "Carnivores",
+    "Herbivores",
+    "Omnivores",
+    "Predators"
+   ],
+   "r": 1,
+   "d": 1
+  },
+  {
+   "id": "en-ciencia-015",
+   "p": "Which gas in the air do humans need to survive?",
+   "o": [
+    "Helium",
+    "Argon",
+    "Oxygen",
+    "Methane"
+   ],
+   "r": 2,
+   "d": 1
+  },
+  {
+   "id": "en-ciencia-016",
+   "p": "Which is the largest planet in our solar system?",
+   "o": [
+    "Saturn",
+    "Neptune",
+    "Earth",
+    "Jupiter"
+   ],
+   "r": 3,
+   "d": 1
+  },
+  {
+   "id": "en-ciencia-017",
+   "p": "What is Earth's only natural satellite?",
+   "o": [
+    "The Moon",
+    "Titan",
+    "Europa",
+    "Phobos"
+   ],
+   "r": 0,
+   "d": 1
+  },
+  {
+   "id": "en-ciencia-018",
+   "p": "Which sense do we use our ears for?",
+   "o": [
+    "Sight",
+    "Hearing",
+    "Smell",
+    "Taste"
+   ],
+   "r": 1,
+   "d": 1
+  },
+  {
+   "id": "en-ciencia-019",
+   "p": "What is the chemical symbol for gold?",
+   "o": [
+    "Ag",
+    "Gd",
+    "Au",
+    "Go"
+   ],
+   "r": 2,
+   "d": 1
+  },
+  {
+   "id": "en-ciencia-020",
+   "p": "Which part of a plant absorbs water from soil?",
+   "o": [
+    "Leaves",
+    "Petals",
+    "Flowers",
+    "Roots"
+   ],
+   "r": 3,
+   "d": 1
+  },
+  {
+   "id": "en-ciencia-021",
+   "p": "At sea level, water boils at what temperature?",
+   "o": [
+    "100°C",
+    "90°C",
+    "110°C",
+    "120°C"
+   ],
+   "r": 0,
+   "d": 1
+  },
+  {
+   "id": "en-ciencia-022",
+   "p": "What type of animal is a frog?",
+   "o": [
+    "Reptile",
+    "Amphibian",
+    "Fish",
+    "Mammal"
+   ],
+   "r": 1,
+   "d": 1
+  },
+  {
+   "id": "en-ciencia-023",
+   "p": "How many bones does an adult human have?",
+   "o": [
+    "156",
+    "256",
+    "206",
+    "306"
+   ],
+   "r": 2,
+   "d": 2
+  },
+  {
+   "id": "en-ciencia-024",
+   "p": "What is the chemical symbol for sodium?",
+   "o": [
+    "Sa",
+    "Sn",
+    "No",
+    "Na"
+   ],
+   "r": 3,
+   "d": 2
+  },
+  {
+   "id": "en-ciencia-025",
+   "p": "Which blood cells carry oxygen?",
+   "o": [
+    "Red blood cells",
+    "White blood cells",
+    "Platelets",
+    "Plasma cells"
+   ],
+   "r": 0,
+   "d": 2
+  },
+  {
+   "id": "en-ciencia-026",
+   "p": "Which cell part is called its powerhouse?",
+   "o": [
+    "Nucleus",
+    "Mitochondria",
+    "Ribosome",
+    "Golgi apparatus"
+   ],
+   "r": 1,
+   "d": 2
+  },
+  {
+   "id": "en-ciencia-027",
+   "p": "About how fast does light travel?",
+   "o": [
+    "30,000 km/s",
+    "3,000 km/s",
+    "300,000 km/s",
+    "150,000 km/s"
+   ],
+   "r": 2,
+   "d": 2
+  },
+  {
+   "id": "en-ciencia-028",
+   "p": "Which planet is closest to the Sun?",
+   "o": [
+    "Venus",
+    "Mars",
+    "Earth",
+    "Mercury"
+   ],
+   "r": 3,
+   "d": 2
+  },
+  {
+   "id": "en-ciencia-029",
+   "p": "What is the most abundant gas in Earth's air?",
+   "o": [
+    "Nitrogen",
+    "Oxygen",
+    "Argon",
+    "Carbon dioxide"
+   ],
+   "r": 0,
+   "d": 2
+  },
+  {
+   "id": "en-ciencia-030",
+   "p": "Who developed the theory of relativity?",
+   "o": [
+    "Isaac Newton",
+    "Albert Einstein",
+    "Niels Bohr",
+    "Galileo Galilei"
+   ],
+   "r": 1,
+   "d": 2
+  },
+  {
+   "id": "en-ciencia-031",
+   "p": "What is the chemical formula for table salt?",
+   "o": [
+    "KCl",
+    "HCl",
+    "NaCl",
+    "NaOH"
+   ],
+   "r": 2,
+   "d": 2
+  },
+  {
+   "id": "en-ciencia-032",
+   "p": "What is the unit of electrical resistance?",
+   "o": [
+    "Volt",
+    "Watt",
+    "Ampere",
+    "Ohm"
+   ],
+   "r": 3,
+   "d": 2
+  },
+  {
+   "id": "en-ciencia-033",
+   "p": "Which vitamin does skin make from sunlight?",
+   "o": [
+    "Vitamin D",
+    "Vitamin A",
+    "Vitamin C",
+    "Vitamin K"
+   ],
+   "r": 0,
+   "d": 2
+  },
+  {
+   "id": "en-ciencia-034",
+   "p": "What type of rock forms from cooled lava?",
+   "o": [
+    "Sedimentary",
+    "Igneous",
+    "Metamorphic",
+    "Crystalline"
+   ],
+   "r": 1,
+   "d": 2
+  },
+  {
+   "id": "en-ciencia-035",
+   "p": "What is the largest organ of the human body?",
+   "o": [
+    "Liver",
+    "Heart",
+    "Skin",
+    "Brain"
+   ],
+   "r": 2,
+   "d": 2
+  },
+  {
+   "id": "en-ciencia-036",
+   "p": "What is the scientific study of weather called?",
+   "o": [
+    "Geology",
+    "Ecology",
+    "Astronomy",
+    "Meteorology"
+   ],
+   "r": 3,
+   "d": 2
+  },
+  {
+   "id": "en-ciencia-037",
+   "p": "What is the chemical symbol for iron?",
+   "o": [
+    "Fe",
+    "Ir",
+    "In",
+    "Fr"
+   ],
+   "r": 0,
+   "d": 2
+  },
+  {
+   "id": "en-ciencia-038",
+   "p": "Who described the laws of motion and gravity?",
+   "o": [
+    "Charles Darwin",
+    "Isaac Newton",
+    "Louis Pasteur",
+    "Michael Faraday"
+   ],
+   "r": 1,
+   "d": 2
+  },
+  {
+   "id": "en-ciencia-039",
+   "p": "How many chromosomes do humans normally have?",
+   "o": [
+    "23",
+    "44",
+    "46",
+    "48"
+   ],
+   "r": 2,
+   "d": 2
+  },
+  {
+   "id": "en-ciencia-040",
+   "p": "What is a liquid turning into gas called?",
+   "o": [
+    "Condensation",
+    "Freezing",
+    "Melting",
+    "Evaporation"
+   ],
+   "r": 3,
+   "d": 2
+  },
+  {
+   "id": "en-ciencia-041",
+   "p": "Which blood type is the universal donor?",
+   "o": [
+    "O negative",
+    "AB positive",
+    "A negative",
+    "B positive"
+   ],
+   "r": 0,
+   "d": 2
+  },
+  {
+   "id": "en-ciencia-042",
+   "p": "What is the pH of pure water?",
+   "o": [
+    "1",
+    "7",
+    "10",
+    "14"
+   ],
+   "r": 1,
+   "d": 2
+  },
+  {
+   "id": "en-ciencia-043",
+   "p": "What is the main element in the Sun?",
+   "o": [
+    "Helium",
+    "Oxygen",
+    "Hydrogen",
+    "Carbon"
+   ],
+   "r": 2,
+   "d": 2
+  },
+  {
+   "id": "en-ciencia-044",
+   "p": "What do we call animals active at night?",
+   "o": [
+    "Diurnal",
+    "Migratory",
+    "Aquatic",
+    "Nocturnal"
+   ],
+   "r": 3,
+   "d": 2
+  },
+  {
+   "id": "en-ciencia-045",
+   "p": "Who discovered penicillin in 1928?",
+   "o": [
+    "Alexander Fleming",
+    "Louis Pasteur",
+    "Joseph Lister",
+    "Robert Koch"
+   ],
+   "r": 0,
+   "d": 3
+  },
+  {
+   "id": "en-ciencia-046",
+   "p": "Which is the longest bone in the human body?",
+   "o": [
+    "Tibia",
+    "Femur",
+    "Humerus",
+    "Fibula"
+   ],
+   "r": 1,
+   "d": 3
+  },
+  {
+   "id": "en-ciencia-047",
+   "p": "About how old is the universe?",
+   "o": [
+    "4.6 billion years",
+    "1 billion years",
+    "13.8 billion years",
+    "100 billion years"
+   ],
+   "r": 2,
+   "d": 3
+  },
+  {
+   "id": "en-ciencia-048",
+   "p": "What gas makes up most of Venus's atmosphere?",
+   "o": [
+    "Nitrogen",
+    "Methane",
+    "Hydrogen",
+    "Carbon dioxide"
+   ],
+   "r": 3,
+   "d": 3
+  },
+  {
+   "id": "en-ciencia-049",
+   "p": "What is the most abundant metal in Earth's crust?",
+   "o": [
+    "Aluminum",
+    "Iron",
+    "Copper",
+    "Calcium"
+   ],
+   "r": 0,
+   "d": 3
+  },
+  {
+   "id": "en-ciencia-050",
+   "p": "What process divides one cell into two identical cells?",
+   "o": [
+    "Meiosis",
+    "Mitosis",
+    "Osmosis",
+    "Diffusion"
+   ],
+   "r": 1,
+   "d": 3
+  },
+  {
+   "id": "en-ciencia-051",
+   "p": "What is absolute zero in degrees Celsius?",
+   "o": [
+    "About -100°C",
+    "About -373°C",
+    "About -273°C",
+    "About -173°C"
+   ],
+   "r": 2,
+   "d": 3
+  },
+  {
+   "id": "en-ciencia-052",
+   "p": "Who created the first widely used periodic table?",
+   "o": [
+    "Antoine Lavoisier",
+    "John Dalton",
+    "Robert Boyle",
+    "Dmitri Mendeleev"
+   ],
+   "r": 3,
+   "d": 3
+  },
+  {
+   "id": "en-ciencia-053",
+   "p": "Which element has the chemical symbol W?",
+   "o": [
+    "Tungsten",
+    "Titanium",
+    "Tantalum",
+    "Thallium"
+   ],
+   "r": 0,
+   "d": 3
+  },
+  {
+   "id": "en-ciencia-054",
+   "p": "Who proposed the Sun-centered model of the cosmos?",
+   "o": [
+    "Johannes Kepler",
+    "Nicolaus Copernicus",
+    "Tycho Brahe",
+    "Ptolemy"
+   ],
+   "r": 1,
+   "d": 3
+  },
+  {
+   "id": "en-ciencia-055",
+   "p": "Which planet rotates tilted almost on its side?",
+   "o": [
+    "Neptune",
+    "Saturn",
+    "Uranus",
+    "Jupiter"
+   ],
+   "r": 2,
+   "d": 3
+  }
+ ]
+}
